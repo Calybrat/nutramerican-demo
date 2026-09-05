@@ -235,12 +235,15 @@ def render():
     # ── Promociones ──────────────────────────────────────────────────────────
     with t4:
         promo = g[g["pvp_promo_cop"].notna()].copy()
-        vd = v[v["mes"].isin(ult12)]
-        desc_mes = vd.groupby("mes").apply(
-            lambda x: (x["descuento_pct"] * x["venta_cop"]).sum() / x["venta_cop"].sum(),
-            include_groups=False)
-        margen_mes = vd.groupby("mes").apply(
-            lambda x: x["margen_cop"].sum() / x["venta_cop"].sum() * 100, include_groups=False)
+        # Agregación vectorizada en vez de groupby().apply(): el descuento del
+        # mes es el promedio ponderado por facturación, no el promedio simple
+        # de las líneas. Además evita `include_groups`, que cambia de
+        # comportamiento entre pandas 2 y 3.
+        vd = v[v["mes"].isin(ult12)].copy()
+        vd["_desc_ponderado"] = vd["descuento_pct"] * vd["venta_cop"]
+        _m = vd.groupby("mes")[["_desc_ponderado", "venta_cop", "margen_cop"]].sum()
+        desc_mes = _m["_desc_ponderado"] / _m["venta_cop"]
+        margen_mes = _m["margen_cop"] / _m["venta_cop"] * 100
 
         c1, c2 = st.columns([1.5, 1], gap="medium")
         with c1:
