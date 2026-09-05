@@ -1,0 +1,491 @@
+factura_id,cliente,canal,tipo_canal,pais,mes,fecha_factura,fecha_vencimiento,plazo_dias,valor_cop,pagada,dias_mora,estado
+FV-202501-00000,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-13,2025-03-29,75,192015070,True,0,Al día
+FV-202501-00001,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-21,2025-04-06,75,146225706,True,0,Al día
+FV-202501-00002,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-01,2025-03-17,75,221695268,True,0,Al día
+FV-202501-00003,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-11,2025-03-27,75,253052773,True,0,Al día
+FV-202501-00004,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-27,2025-04-12,75,182250339,True,0,Al día
+FV-202501-00005,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-01,2025-01-12,2025-03-28,75,267503034,True,0,Al día
+FV-202501-00010,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-01,2025-01-13,2025-03-14,60,302564640,True,0,Al día
+FV-202501-00020,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-01,2025-01-20,2025-03-21,60,190558238,True,0,Al día
+FV-202501-00030,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-01,2025-01-02,2025-02-16,45,312253369,True,0,Al día
+FV-202501-00031,MiProteína,Distribuidores,Mayorista,Colombia,2025-01,2025-01-05,2025-02-19,45,326585317,True,0,Al día
+FV-202501-00032,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-01,2025-01-12,2025-02-26,45,242139542,True,0,Al día
+FV-202501-00033,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-01,2025-01-11,2025-02-25,45,140174907,True,0,Al día
+FV-202501-00034,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-01,2025-01-19,2025-03-05,45,304268049,True,0,Al día
+FV-202501-00035,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-01,2025-01-02,2025-02-16,45,216246832,True,0,Al día
+FV-202501-00036,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-01,2025-01-13,2025-02-27,45,301382191,True,0,Al día
+FV-202501-00037,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-01,2025-01-14,2025-02-28,45,207532812,True,0,Al día
+FV-202501-00040,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-01,2025-01-04,2025-02-18,45,137298358,True,0,Al día
+FV-202501-00041,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-01,2025-01-27,2025-03-13,45,184534199,True,0,Al día
+FV-202501-00042,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-01,2025-01-19,2025-03-05,45,132418529,True,0,Al día
+FV-202501-00043,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-01,2025-01-01,2025-02-15,45,124772831,True,0,Al día
+FV-202501-00050,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-01,2025-01-23,2025-03-24,60,258634576,True,0,Al día
+FV-202501-00051,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-01,2025-01-23,2025-03-24,60,118109594,True,0,Al día
+FV-202501-00052,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-01,2025-01-02,2025-03-03,60,231799542,True,0,Al día
+FV-202502-00060,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-26,2025-05-12,75,225420538,True,0,Al día
+FV-202502-00061,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-24,2025-05-10,75,195785278,True,0,Al día
+FV-202502-00062,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-14,2025-04-30,75,155717686,True,0,Al día
+FV-202502-00063,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-23,2025-05-09,75,145118038,True,0,Al día
+FV-202502-00064,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-16,2025-05-02,75,111315482,True,0,Al día
+FV-202502-00065,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-02,2025-02-27,2025-05-13,75,154271496,True,0,Al día
+FV-202502-00070,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-02,2025-02-27,2025-04-28,60,224740441,True,0,Al día
+FV-202502-00080,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-02,2025-02-11,2025-04-12,60,180290974,True,0,Al día
+FV-202502-00090,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-02,2025-02-12,2025-03-29,45,169560848,True,0,Al día
+FV-202502-00091,MiProteína,Distribuidores,Mayorista,Colombia,2025-02,2025-02-13,2025-03-30,45,275388791,True,0,Al día
+FV-202502-00092,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-02,2025-02-27,2025-04-13,45,198195599,True,0,Al día
+FV-202502-00093,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-02,2025-02-21,2025-04-07,45,112948314,True,0,Al día
+FV-202502-00094,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-02,2025-02-27,2025-04-13,45,132012881,True,0,Al día
+FV-202502-00095,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-02,2025-02-15,2025-04-01,45,227966508,True,0,Al día
+FV-202502-00096,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-02,2025-02-05,2025-03-22,45,131534010,True,0,Al día
+FV-202502-00097,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-02,2025-02-07,2025-03-24,45,263236891,True,0,Al día
+FV-202502-00100,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-02,2025-02-19,2025-04-05,45,155455363,True,0,Al día
+FV-202502-00101,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-02,2025-02-18,2025-04-04,45,83354056,True,0,Al día
+FV-202502-00102,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-02,2025-02-23,2025-04-09,45,109734099,True,0,Al día
+FV-202502-00103,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-02,2025-02-17,2025-04-03,45,78728539,True,0,Al día
+FV-202502-00110,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-02,2025-02-19,2025-04-20,60,105093913,True,0,Al día
+FV-202502-00111,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-02,2025-02-05,2025-04-06,60,158295184,True,0,Al día
+FV-202502-00112,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-02,2025-02-10,2025-04-11,60,162923977,True,0,Al día
+FV-202503-00120,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-09,2025-05-23,75,218493322,True,0,Al día
+FV-202503-00121,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-09,2025-05-23,75,154688853,True,0,Al día
+FV-202503-00122,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-02,2025-05-16,75,140460074,True,0,Al día
+FV-202503-00123,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-17,2025-05-31,75,189044563,True,0,Al día
+FV-202503-00124,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-10,2025-05-24,75,187439866,True,0,Al día
+FV-202503-00125,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-03,2025-03-01,2025-05-15,75,138650009,True,0,Al día
+FV-202503-00130,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-03,2025-03-04,2025-05-03,60,299173470,True,0,Al día
+FV-202503-00140,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-03,2025-03-22,2025-05-21,60,124378525,True,0,Al día
+FV-202503-00150,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-03,2025-03-24,2025-05-08,45,232242416,True,0,Al día
+FV-202503-00151,MiProteína,Distribuidores,Mayorista,Colombia,2025-03,2025-03-03,2025-04-17,45,147917745,True,0,Al día
+FV-202503-00152,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-03,2025-03-05,2025-04-19,45,224882322,True,0,Al día
+FV-202503-00153,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-03,2025-03-19,2025-05-03,45,199414652,True,0,Al día
+FV-202503-00154,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-03,2025-03-20,2025-05-04,45,188427337,True,0,Al día
+FV-202503-00155,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-03,2025-03-19,2025-05-03,45,177569688,True,0,Al día
+FV-202503-00156,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-03,2025-03-23,2025-05-07,45,261889068,True,0,Al día
+FV-202503-00157,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-03,2025-03-09,2025-04-23,45,236812502,True,0,Al día
+FV-202503-00160,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-03,2025-03-22,2025-05-06,45,118921760,True,0,Al día
+FV-202503-00161,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-03,2025-03-06,2025-04-20,45,112652610,True,0,Al día
+FV-202503-00162,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-03,2025-03-08,2025-04-22,45,98560968,True,0,Al día
+FV-202503-00163,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-03,2025-03-02,2025-04-16,45,80369087,True,0,Al día
+FV-202503-00170,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-03,2025-03-12,2025-05-11,60,108753726,True,0,Al día
+FV-202503-00171,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-03,2025-03-24,2025-05-23,60,140332498,True,0,Al día
+FV-202503-00172,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-03,2025-03-17,2025-05-16,60,149466515,True,0,Al día
+FV-202504-00180,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-21,2025-07-05,75,112506614,True,0,Al día
+FV-202504-00181,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-26,2025-07-10,75,145895237,True,0,Al día
+FV-202504-00182,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-10,2025-06-24,75,199183937,True,0,Al día
+FV-202504-00183,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-06,2025-06-20,75,156647320,True,0,Al día
+FV-202504-00184,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-01,2025-06-15,75,98880917,True,0,Al día
+FV-202504-00185,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-04,2025-04-27,2025-07-11,75,101239072,True,0,Al día
+FV-202504-00190,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-04,2025-04-06,2025-06-05,60,135512125,True,0,Al día
+FV-202504-00200,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-04,2025-04-10,2025-06-09,60,113601559,True,0,Al día
+FV-202504-00210,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-04,2025-04-05,2025-05-20,45,148851322,True,0,Al día
+FV-202504-00211,MiProteína,Distribuidores,Mayorista,Colombia,2025-04,2025-04-08,2025-05-23,45,204249104,True,0,Al día
+FV-202504-00212,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-04,2025-04-06,2025-05-21,45,220863086,True,0,Al día
+FV-202504-00213,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-04,2025-04-22,2025-06-06,45,193152772,True,0,Al día
+FV-202504-00214,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-04,2025-04-23,2025-06-07,45,132789502,True,0,Al día
+FV-202504-00215,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-04,2025-04-20,2025-06-04,45,206968972,True,0,Al día
+FV-202504-00216,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-04,2025-04-10,2025-05-25,45,169774139,True,0,Al día
+FV-202504-00217,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-04,2025-04-01,2025-05-16,45,137684523,True,0,Al día
+FV-202504-00220,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-04,2025-04-22,2025-06-06,45,99480375,True,0,Al día
+FV-202504-00221,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-04,2025-04-05,2025-05-20,45,135732865,False,468,Vencida +90
+FV-202504-00222,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-04,2025-04-26,2025-06-10,45,124987602,True,0,Al día
+FV-202504-00223,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-04,2025-04-04,2025-05-19,45,73252149,True,0,Al día
+FV-202504-00230,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-04,2025-04-05,2025-06-04,60,131333020,True,0,Al día
+FV-202504-00231,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-04,2025-04-07,2025-06-06,60,195113389,True,0,Al día
+FV-202504-00232,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-04,2025-04-04,2025-06-03,60,123785504,True,0,Al día
+FV-202505-00240,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-06,2025-07-20,75,163136321,True,0,Al día
+FV-202505-00241,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-15,2025-07-29,75,157036314,True,0,Al día
+FV-202505-00242,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-05,2025-07-19,75,142603597,True,0,Al día
+FV-202505-00243,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-10,2025-07-24,75,107030897,True,0,Al día
+FV-202505-00244,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-26,2025-08-09,75,117433949,True,0,Al día
+FV-202505-00245,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-05,2025-05-16,2025-07-30,75,171197044,True,0,Al día
+FV-202505-00250,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-05,2025-05-09,2025-07-08,60,197955446,True,0,Al día
+FV-202505-00260,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-05,2025-05-09,2025-07-08,60,180728881,True,0,Al día
+FV-202505-00270,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-05,2025-05-09,2025-06-23,45,153083972,True,0,Al día
+FV-202505-00271,MiProteína,Distribuidores,Mayorista,Colombia,2025-05,2025-05-25,2025-07-09,45,231123394,True,0,Al día
+FV-202505-00272,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-05,2025-05-12,2025-06-26,45,140283197,True,0,Al día
+FV-202505-00273,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-05,2025-05-26,2025-07-10,45,111783655,True,0,Al día
+FV-202505-00274,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-05,2025-05-15,2025-06-29,45,124462799,True,0,Al día
+FV-202505-00275,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-05,2025-05-24,2025-07-08,45,142554251,True,0,Al día
+FV-202505-00276,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-05,2025-05-13,2025-06-27,45,165065102,True,0,Al día
+FV-202505-00277,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-05,2025-05-23,2025-07-07,45,108379946,True,0,Al día
+FV-202505-00280,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-05,2025-05-14,2025-06-28,45,109098052,True,0,Al día
+FV-202505-00281,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-05,2025-05-04,2025-06-18,45,89588931,True,0,Al día
+FV-202505-00282,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-05,2025-05-10,2025-06-24,45,65791427,True,0,Al día
+FV-202505-00283,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-05,2025-05-14,2025-06-28,45,66392568,True,0,Al día
+FV-202505-00290,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-05,2025-05-24,2025-07-23,60,135971391,True,0,Al día
+FV-202505-00291,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-05,2025-05-19,2025-07-18,60,84740450,True,0,Al día
+FV-202505-00292,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-05,2025-05-13,2025-07-12,60,119484703,True,0,Al día
+FV-202506-00300,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-17,2025-08-31,75,154179492,True,0,Al día
+FV-202506-00301,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-06,2025-08-20,75,119646715,True,0,Al día
+FV-202506-00302,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-19,2025-09-02,75,163470336,True,0,Al día
+FV-202506-00303,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-06,2025-08-20,75,131117193,True,0,Al día
+FV-202506-00304,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-10,2025-08-24,75,132176718,True,0,Al día
+FV-202506-00305,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-06,2025-06-11,2025-08-25,75,161577070,True,0,Al día
+FV-202506-00310,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-06,2025-06-06,2025-08-05,60,121050771,True,0,Al día
+FV-202506-00320,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-06,2025-06-14,2025-08-13,60,214359626,True,0,Al día
+FV-202506-00330,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-06,2025-06-25,2025-08-09,45,189509761,True,0,Al día
+FV-202506-00331,MiProteína,Distribuidores,Mayorista,Colombia,2025-06,2025-06-07,2025-07-22,45,216889842,True,0,Al día
+FV-202506-00332,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-06,2025-06-27,2025-08-11,45,215910803,True,0,Al día
+FV-202506-00333,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-06,2025-06-03,2025-07-18,45,221990771,True,0,Al día
+FV-202506-00334,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-06,2025-06-25,2025-08-09,45,226712749,False,387,Vencida +90
+FV-202506-00335,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-06,2025-06-07,2025-07-22,45,278076349,True,0,Al día
+FV-202506-00336,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-06,2025-06-13,2025-07-28,45,222525437,True,0,Al día
+FV-202506-00337,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-06,2025-06-11,2025-07-26,45,241833685,True,0,Al día
+FV-202506-00340,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-06,2025-06-25,2025-08-09,45,124792319,True,0,Al día
+FV-202506-00341,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-06,2025-06-18,2025-08-02,45,108327674,True,0,Al día
+FV-202506-00342,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-06,2025-06-15,2025-07-30,45,96336753,True,0,Al día
+FV-202506-00343,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-06,2025-06-27,2025-08-11,45,137769054,True,0,Al día
+FV-202506-00350,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-06,2025-06-23,2025-08-22,60,139236340,True,0,Al día
+FV-202506-00351,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-06,2025-06-25,2025-08-24,60,151068633,True,0,Al día
+FV-202506-00352,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-06,2025-06-01,2025-07-31,60,93985258,True,0,Al día
+FV-202507-00360,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-11,2025-09-24,75,86808899,True,0,Al día
+FV-202507-00361,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-09,2025-09-22,75,200585581,True,0,Al día
+FV-202507-00362,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-01,2025-09-14,75,107830433,True,0,Al día
+FV-202507-00363,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-13,2025-09-26,75,149392221,True,0,Al día
+FV-202507-00364,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-12,2025-09-25,75,93062101,True,0,Al día
+FV-202507-00365,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-07,2025-07-15,2025-09-28,75,84499435,True,0,Al día
+FV-202507-00370,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-07,2025-07-24,2025-09-22,60,193189268,True,0,Al día
+FV-202507-00380,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-07,2025-07-04,2025-09-02,60,166628984,True,0,Al día
+FV-202507-00390,Distribuidor México,Distribuidor México,Internacional,México,2025-07,2025-07-04,2025-09-02,60,39631151,True,0,Al día
+FV-202507-00400,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-07,2025-07-24,2025-09-07,45,278892619,True,0,Al día
+FV-202507-00401,MiProteína,Distribuidores,Mayorista,Colombia,2025-07,2025-07-06,2025-08-20,45,149942916,True,0,Al día
+FV-202507-00402,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-07,2025-07-22,2025-09-05,45,165632733,True,0,Al día
+FV-202507-00403,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-07,2025-07-21,2025-09-04,45,124070211,True,0,Al día
+FV-202507-00404,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-07,2025-07-23,2025-09-06,45,132051495,True,0,Al día
+FV-202507-00405,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-07,2025-07-14,2025-08-28,45,231012572,True,0,Al día
+FV-202507-00406,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-07,2025-07-24,2025-09-07,45,277009455,True,0,Al día
+FV-202507-00407,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-07,2025-07-18,2025-09-01,45,259442248,False,364,Vencida +90
+FV-202507-00410,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-07,2025-07-05,2025-08-19,45,106742804,True,0,Al día
+FV-202507-00411,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-07,2025-07-15,2025-08-29,45,145511245,True,0,Al día
+FV-202507-00412,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-07,2025-07-19,2025-09-02,45,61309770,True,0,Al día
+FV-202507-00413,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-07,2025-07-04,2025-08-18,45,119390310,True,0,Al día
+FV-202507-00420,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-07,2025-07-15,2025-09-13,60,230735708,True,0,Al día
+FV-202507-00421,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-07,2025-07-03,2025-09-01,60,277666534,True,0,Al día
+FV-202507-00422,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-07,2025-07-15,2025-09-13,60,305583333,True,0,Al día
+FV-202508-00430,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-20,2025-11-03,75,89186333,True,0,Al día
+FV-202508-00431,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-04,2025-10-18,75,104907887,True,0,Al día
+FV-202508-00432,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-26,2025-11-09,75,179322496,True,0,Al día
+FV-202508-00433,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-17,2025-10-31,75,144291618,True,0,Al día
+FV-202508-00434,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-08,2025-10-22,75,85744508,True,0,Al día
+FV-202508-00435,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-08,2025-08-24,2025-11-07,75,90697060,True,0,Al día
+FV-202508-00440,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-08,2025-08-03,2025-10-02,60,154284895,True,0,Al día
+FV-202508-00450,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-08,2025-08-17,2025-10-16,60,187788216,True,0,Al día
+FV-202508-00460,Distribuidor México,Distribuidor México,Internacional,México,2025-08,2025-08-10,2025-10-09,60,96653734,True,0,Al día
+FV-202508-00470,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-08,2025-08-14,2025-09-28,45,200903493,True,0,Al día
+FV-202508-00471,MiProteína,Distribuidores,Mayorista,Colombia,2025-08,2025-08-20,2025-10-04,45,179630080,True,0,Al día
+FV-202508-00472,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-08,2025-08-25,2025-10-09,45,203221684,True,0,Al día
+FV-202508-00473,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-08,2025-08-05,2025-09-19,45,188700066,True,0,Al día
+FV-202508-00474,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-08,2025-08-01,2025-09-15,45,106437714,True,0,Al día
+FV-202508-00475,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-08,2025-08-11,2025-09-25,45,138930882,True,0,Al día
+FV-202508-00476,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-08,2025-08-26,2025-10-10,45,228490106,True,0,Al día
+FV-202508-00477,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-08,2025-08-09,2025-09-23,45,231151302,True,0,Al día
+FV-202508-00480,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-08,2025-08-16,2025-09-30,45,139784718,True,0,Al día
+FV-202508-00481,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-08,2025-08-22,2025-10-06,45,97519622,True,0,Al día
+FV-202508-00482,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-08,2025-08-09,2025-09-23,45,85225216,True,0,Al día
+FV-202508-00483,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-08,2025-08-26,2025-10-10,45,60928624,True,0,Al día
+FV-202508-00490,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-08,2025-08-09,2025-10-08,60,167825516,True,0,Al día
+FV-202508-00491,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-08,2025-08-24,2025-10-23,60,199246205,True,0,Al día
+FV-202508-00492,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-08,2025-08-02,2025-10-01,60,207711131,True,0,Al día
+FV-202509-00500,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-24,2025-12-08,75,88116908,True,0,Al día
+FV-202509-00501,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-09,2025-11-23,75,111015846,True,0,Al día
+FV-202509-00502,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-17,2025-12-01,75,150571655,True,0,Al día
+FV-202509-00503,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-24,2025-12-08,75,83275221,True,0,Al día
+FV-202509-00504,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-19,2025-12-03,75,100627848,True,0,Al día
+FV-202509-00505,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-09,2025-09-12,2025-11-26,75,97683144,True,0,Al día
+FV-202509-00510,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-09,2025-09-15,2025-11-14,60,138572328,True,0,Al día
+FV-202509-00520,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-09,2025-09-27,2025-11-26,60,76405951,True,0,Al día
+FV-202509-00530,Distribuidor México,Distribuidor México,Internacional,México,2025-09,2025-09-01,2025-10-31,60,66951564,True,0,Al día
+FV-202509-00540,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-09,2025-09-25,2025-11-09,45,154639902,True,0,Al día
+FV-202509-00541,MiProteína,Distribuidores,Mayorista,Colombia,2025-09,2025-09-11,2025-10-26,45,258768565,True,0,Al día
+FV-202509-00542,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-09,2025-09-03,2025-10-18,45,177729081,True,0,Al día
+FV-202509-00543,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-09,2025-09-23,2025-11-07,45,113377802,True,0,Al día
+FV-202509-00544,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-09,2025-09-05,2025-10-20,45,267812036,True,0,Al día
+FV-202509-00545,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-09,2025-09-19,2025-11-03,45,244042833,True,0,Al día
+FV-202509-00546,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-09,2025-09-02,2025-10-17,45,120362672,True,0,Al día
+FV-202509-00547,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-09,2025-09-11,2025-10-26,45,195711621,True,0,Al día
+FV-202509-00550,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-09,2025-09-10,2025-10-25,45,94578557,True,0,Al día
+FV-202509-00551,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-09,2025-09-14,2025-10-29,45,87867495,True,0,Al día
+FV-202509-00552,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-09,2025-09-14,2025-10-29,45,76245722,True,0,Al día
+FV-202509-00553,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-09,2025-09-25,2025-11-09,45,77815459,True,0,Al día
+FV-202509-00560,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-09,2025-09-01,2025-10-31,60,135143155,True,0,Al día
+FV-202509-00561,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-09,2025-09-25,2025-11-24,60,149077981,True,0,Al día
+FV-202509-00562,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-09,2025-09-24,2025-11-23,60,112575474,True,0,Al día
+FV-202510-00570,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-22,2026-01-05,75,90550769,True,0,Al día
+FV-202510-00571,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-06,2025-12-20,75,134294716,True,0,Al día
+FV-202510-00572,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-07,2025-12-21,75,178825997,True,0,Al día
+FV-202510-00573,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-12,2025-12-26,75,137005257,True,0,Al día
+FV-202510-00574,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-15,2025-12-29,75,196865943,True,0,Al día
+FV-202510-00575,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-10,2025-10-04,2025-12-18,75,175751684,True,0,Al día
+FV-202510-00580,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-10,2025-10-22,2025-12-21,60,149645328,True,0,Al día
+FV-202510-00590,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-10,2025-10-15,2025-12-14,60,175443099,True,0,Al día
+FV-202510-00600,Distribuidor México,Distribuidor México,Internacional,México,2025-10,2025-10-22,2025-12-21,60,79171643,True,0,Al día
+FV-202510-00610,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-10,2025-10-21,2025-12-05,45,160585156,True,0,Al día
+FV-202510-00611,MiProteína,Distribuidores,Mayorista,Colombia,2025-10,2025-10-17,2025-12-01,45,277122197,True,0,Al día
+FV-202510-00612,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-10,2025-10-26,2025-12-10,45,165362911,True,0,Al día
+FV-202510-00613,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-10,2025-10-14,2025-11-28,45,136568315,True,0,Al día
+FV-202510-00614,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-10,2025-10-21,2025-12-05,45,191688943,True,0,Al día
+FV-202510-00615,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-10,2025-10-07,2025-11-21,45,259725631,True,0,Al día
+FV-202510-00616,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-10,2025-10-14,2025-11-28,45,186510096,True,0,Al día
+FV-202510-00617,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-10,2025-10-05,2025-11-19,45,140563493,True,0,Al día
+FV-202510-00620,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-10,2025-10-27,2025-12-11,45,59498267,True,0,Al día
+FV-202510-00621,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-10,2025-10-05,2025-11-19,45,74034670,True,0,Al día
+FV-202510-00622,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-10,2025-10-09,2025-11-23,45,138172282,True,0,Al día
+FV-202510-00623,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-10,2025-10-07,2025-11-21,45,64912426,True,0,Al día
+FV-202510-00630,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-10,2025-10-19,2025-12-18,60,98582650,True,0,Al día
+FV-202510-00631,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-10,2025-10-14,2025-12-13,60,111751833,True,0,Al día
+FV-202510-00632,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-10,2025-10-25,2025-12-24,60,148043182,True,0,Al día
+FV-202511-00640,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-02,2026-01-16,75,173055469,True,0,Al día
+FV-202511-00641,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-03,2026-01-17,75,125122985,True,0,Al día
+FV-202511-00642,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-16,2026-01-30,75,200014596,True,0,Al día
+FV-202511-00643,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-01,2026-01-15,75,108239017,True,0,Al día
+FV-202511-00644,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-10,2026-01-24,75,197393761,True,0,Al día
+FV-202511-00645,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-11,2025-11-23,2026-02-06,75,118153320,True,0,Al día
+FV-202511-00650,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-11,2025-11-06,2026-01-05,60,148282693,True,0,Al día
+FV-202511-00660,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-11,2025-11-01,2025-12-31,60,176209709,True,0,Al día
+FV-202511-00670,Distribuidor México,Distribuidor México,Internacional,México,2025-11,2025-11-07,2026-01-06,60,100802535,True,0,Al día
+FV-202511-00680,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-11,2025-11-25,2026-01-09,45,209318866,True,0,Al día
+FV-202511-00681,MiProteína,Distribuidores,Mayorista,Colombia,2025-11,2025-11-18,2026-01-02,45,257295913,True,0,Al día
+FV-202511-00682,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-11,2025-11-07,2025-12-22,45,246267506,True,0,Al día
+FV-202511-00683,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-11,2025-11-13,2025-12-28,45,260694980,True,0,Al día
+FV-202511-00684,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-11,2025-11-02,2025-12-17,45,233696205,True,0,Al día
+FV-202511-00685,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-11,2025-11-15,2025-12-30,45,146969614,True,0,Al día
+FV-202511-00686,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-11,2025-11-12,2025-12-27,45,270552371,True,0,Al día
+FV-202511-00687,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-11,2025-11-20,2026-01-04,45,265433641,True,0,Al día
+FV-202511-00690,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-11,2025-11-16,2025-12-31,45,83851198,True,0,Al día
+FV-202511-00691,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-11,2025-11-05,2025-12-20,45,142548930,True,0,Al día
+FV-202511-00692,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-11,2025-11-19,2026-01-03,45,152661858,True,0,Al día
+FV-202511-00693,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-11,2025-11-22,2026-01-06,45,86153330,True,0,Al día
+FV-202511-00700,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-11,2025-11-02,2026-01-01,60,131142860,True,0,Al día
+FV-202511-00701,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-11,2025-11-24,2026-01-23,60,134979799,True,0,Al día
+FV-202511-00702,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-11,2025-11-26,2026-01-25,60,207280751,True,0,Al día
+FV-202512-00710,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-19,2026-03-04,75,133739983,True,0,Al día
+FV-202512-00711,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-19,2026-03-04,75,218517210,True,0,Al día
+FV-202512-00712,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-13,2026-02-26,75,162730873,True,0,Al día
+FV-202512-00713,Éxito,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-26,2026-03-11,75,157271149,True,0,Al día
+FV-202512-00714,Locatel,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-01,2026-02-14,75,199374796,True,0,Al día
+FV-202512-00715,Olímpica,Cadenas & Farmacias,Retail,Colombia,2025-12,2025-12-10,2026-02-23,75,197957428,True,0,Al día
+FV-202512-00720,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2025-12,2025-12-12,2026-02-10,60,197620964,True,0,Al día
+FV-202512-00730,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2025-12,2025-12-09,2026-02-07,60,261834796,True,0,Al día
+FV-202512-00740,Distribuidor México,Distribuidor México,Internacional,México,2025-12,2025-12-13,2026-02-11,60,208069087,True,0,Al día
+FV-202512-00750,Suples Colombia,Distribuidores,Mayorista,Colombia,2025-12,2025-12-23,2026-02-06,45,172893896,True,0,Al día
+FV-202512-00751,MiProteína,Distribuidores,Mayorista,Colombia,2025-12,2025-12-01,2026-01-15,45,271827940,True,0,Al día
+FV-202512-00752,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2025-12,2025-12-26,2026-02-09,45,321974301,True,0,Al día
+FV-202512-00753,Nutrición Total,Distribuidores,Mayorista,Colombia,2025-12,2025-12-11,2026-01-25,45,171595854,True,0,Al día
+FV-202512-00754,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2025-12,2025-12-23,2026-02-06,45,215348973,True,0,Al día
+FV-202512-00755,Mundo Fitness,Distribuidores,Mayorista,Colombia,2025-12,2025-12-02,2026-01-16,45,242161971,True,0,Al día
+FV-202512-00756,Vital Supplements,Distribuidores,Mayorista,Colombia,2025-12,2025-12-06,2026-01-20,45,197961881,True,0,Al día
+FV-202512-00757,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2025-12,2025-12-06,2026-01-20,45,208735071,True,0,Al día
+FV-202512-00760,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2025-12,2025-12-17,2026-01-31,45,164661247,True,0,Al día
+FV-202512-00761,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2025-12,2025-12-10,2026-01-24,45,77101605,True,0,Al día
+FV-202512-00762,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2025-12,2025-12-13,2026-01-27,45,85089078,True,0,Al día
+FV-202512-00763,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2025-12,2025-12-20,2026-02-03,45,72794082,True,0,Al día
+FV-202512-00770,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2025-12,2025-12-15,2026-02-13,60,169200325,True,0,Al día
+FV-202512-00771,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2025-12,2025-12-02,2026-01-31,60,220321996,True,0,Al día
+FV-202512-00772,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2025-12,2025-12-03,2026-02-01,60,103764688,True,0,Al día
+FV-202601-00780,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-09,2026-03-25,75,289306366,True,0,Al día
+FV-202601-00781,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-19,2026-04-04,75,263672355,True,0,Al día
+FV-202601-00782,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-03,2026-03-19,75,329142356,True,0,Al día
+FV-202601-00783,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-03,2026-03-19,75,139212424,True,0,Al día
+FV-202601-00784,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-14,2026-03-30,75,276975165,False,154,Vencida +90
+FV-202601-00785,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-01,2026-01-13,2026-03-29,75,299563965,True,0,Al día
+FV-202601-00790,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-01,2026-01-09,2026-03-10,60,331151682,True,0,Al día
+FV-202601-00800,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-01,2026-01-23,2026-03-24,60,119388518,True,0,Al día
+FV-202601-00810,Distribuidor México,Distribuidor México,Internacional,México,2026-01,2026-01-03,2026-03-04,60,256006050,True,0,Al día
+FV-202601-00820,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-01,2026-01-23,2026-03-24,60,37973171,True,0,Al día
+FV-202601-00830,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-01,2026-01-16,2026-03-02,45,374479633,True,0,Al día
+FV-202601-00831,MiProteína,Distribuidores,Mayorista,Colombia,2026-01,2026-01-24,2026-03-10,45,306140997,True,0,Al día
+FV-202601-00832,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-01,2026-01-21,2026-03-07,45,247484886,True,0,Al día
+FV-202601-00833,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-01,2026-01-22,2026-03-08,45,390938512,True,0,Al día
+FV-202601-00834,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-01,2026-01-08,2026-02-22,45,312142759,True,0,Al día
+FV-202601-00835,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-01,2026-01-13,2026-02-27,45,447258219,True,0,Al día
+FV-202601-00836,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-01,2026-01-27,2026-03-13,45,318229310,True,0,Al día
+FV-202601-00837,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-01,2026-01-24,2026-03-10,45,320034949,True,0,Al día
+FV-202601-00840,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-01,2026-01-07,2026-02-21,45,183658219,True,0,Al día
+FV-202601-00841,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-01,2026-01-09,2026-02-23,45,188458253,True,0,Al día
+FV-202601-00842,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-01,2026-01-26,2026-03-12,45,188617440,True,0,Al día
+FV-202601-00843,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-01,2026-01-12,2026-02-26,45,133962600,True,0,Al día
+FV-202601-00850,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-01,2026-01-13,2026-03-14,60,208521107,True,0,Al día
+FV-202601-00851,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-01,2026-01-26,2026-03-27,60,262934596,True,0,Al día
+FV-202601-00852,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-01,2026-01-07,2026-03-08,60,220388609,True,0,Al día
+FV-202602-00860,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-11,2026-04-27,75,258619481,True,0,Al día
+FV-202602-00861,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-13,2026-04-29,75,133027549,True,0,Al día
+FV-202602-00862,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-01,2026-04-17,75,224095891,True,0,Al día
+FV-202602-00863,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-23,2026-05-09,75,152736950,True,0,Al día
+FV-202602-00864,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-10,2026-04-26,75,262508447,True,0,Al día
+FV-202602-00865,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-02,2026-02-26,2026-05-12,75,138284016,True,0,Al día
+FV-202602-00870,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-02,2026-02-26,2026-04-27,60,154600329,True,0,Al día
+FV-202602-00880,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-02,2026-02-16,2026-04-17,60,247927984,True,0,Al día
+FV-202602-00890,Distribuidor México,Distribuidor México,Internacional,México,2026-02,2026-02-18,2026-04-19,60,176748148,True,0,Al día
+FV-202602-00900,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-02,2026-02-08,2026-04-09,60,45240985,True,0,Al día
+FV-202602-00910,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-02,2026-02-27,2026-04-13,45,236943140,True,0,Al día
+FV-202602-00911,MiProteína,Distribuidores,Mayorista,Colombia,2026-02,2026-02-20,2026-04-06,45,149322137,True,0,Al día
+FV-202602-00912,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-02,2026-02-06,2026-03-23,45,149017674,True,0,Al día
+FV-202602-00913,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-02,2026-02-21,2026-04-07,45,314349095,True,0,Al día
+FV-202602-00914,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-02,2026-02-07,2026-03-24,45,321648420,True,0,Al día
+FV-202602-00915,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-02,2026-02-07,2026-03-24,45,290262738,True,0,Al día
+FV-202602-00916,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-02,2026-02-09,2026-03-26,45,159666128,True,0,Al día
+FV-202602-00917,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-02,2026-02-08,2026-03-25,45,144102833,True,0,Al día
+FV-202602-00920,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-02,2026-02-16,2026-04-02,45,135578054,True,0,Al día
+FV-202602-00921,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-02,2026-02-23,2026-04-09,45,84789442,True,0,Al día
+FV-202602-00922,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-02,2026-02-11,2026-03-28,45,129871154,True,0,Al día
+FV-202602-00923,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-02,2026-02-06,2026-03-23,45,103298286,True,0,Al día
+FV-202602-00930,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-02,2026-02-13,2026-04-14,60,115452012,True,0,Al día
+FV-202602-00931,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-02,2026-02-20,2026-04-21,60,215963090,True,0,Al día
+FV-202602-00932,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-02,2026-02-01,2026-04-02,60,108583026,True,0,Al día
+FV-202603-00940,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-15,2026-05-29,75,229241087,True,0,Al día
+FV-202603-00941,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-18,2026-06-01,75,198586816,True,0,Al día
+FV-202603-00942,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-03,2026-05-17,75,164226175,True,0,Al día
+FV-202603-00943,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-05,2026-05-19,75,209570928,True,0,Al día
+FV-202603-00944,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-10,2026-05-24,75,239121684,True,0,Al día
+FV-202603-00945,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-03,2026-03-14,2026-05-28,75,101213305,True,0,Al día
+FV-202603-00950,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-03,2026-03-22,2026-05-21,60,176838929,True,0,Al día
+FV-202603-00960,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-03,2026-03-05,2026-05-04,60,161031349,True,0,Al día
+FV-202603-00970,Distribuidor México,Distribuidor México,Internacional,México,2026-03,2026-03-04,2026-05-03,60,140530031,False,120,Vencida +90
+FV-202603-00980,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-03,2026-03-05,2026-05-04,60,37766014,True,0,Al día
+FV-202603-00990,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-03,2026-03-07,2026-04-21,45,153187571,True,0,Al día
+FV-202603-00991,MiProteína,Distribuidores,Mayorista,Colombia,2026-03,2026-03-16,2026-04-30,45,199007263,True,0,Al día
+FV-202603-00992,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-03,2026-03-06,2026-04-20,45,253341573,True,0,Al día
+FV-202603-00993,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-03,2026-03-23,2026-05-07,45,302520281,True,0,Al día
+FV-202603-00994,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-03,2026-03-17,2026-05-01,45,282575170,True,0,Al día
+FV-202603-00995,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-03,2026-03-22,2026-05-06,45,280193217,True,0,Al día
+FV-202603-00996,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-03,2026-03-23,2026-05-07,45,168994734,True,0,Al día
+FV-202603-00997,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-03,2026-03-13,2026-04-27,45,273564956,True,0,Al día
+FV-202603-01000,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-03,2026-03-01,2026-04-15,45,130391190,True,0,Al día
+FV-202603-01001,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-03,2026-03-02,2026-04-16,45,144768239,True,0,Al día
+FV-202603-01002,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-03,2026-03-24,2026-05-08,45,125956687,True,0,Al día
+FV-202603-01003,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-03,2026-03-08,2026-04-22,45,140252372,True,0,Al día
+FV-202603-01010,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-03,2026-03-12,2026-05-11,60,179739364,True,0,Al día
+FV-202603-01011,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-03,2026-03-05,2026-05-04,60,123401313,True,0,Al día
+FV-202603-01012,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-03,2026-03-06,2026-05-05,60,87364759,True,0,Al día
+FV-202604-01020,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-04,2026-06-18,75,106659734,True,0,Al día
+FV-202604-01021,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-27,2026-07-11,75,139273581,True,0,Al día
+FV-202604-01022,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-24,2026-07-08,75,221095829,True,0,Al día
+FV-202604-01023,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-03,2026-06-17,75,199322238,True,0,Al día
+FV-202604-01024,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-17,2026-07-01,75,145879097,True,0,Al día
+FV-202604-01025,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-04,2026-04-11,2026-06-25,75,178823085,True,0,Al día
+FV-202604-01030,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-04,2026-04-19,2026-06-18,60,322565671,True,0,Al día
+FV-202604-01040,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-04,2026-04-02,2026-06-01,60,184653200,True,0,Al día
+FV-202604-01050,Distribuidor México,Distribuidor México,Internacional,México,2026-04,2026-04-02,2026-06-01,60,200691691,True,0,Al día
+FV-202604-01060,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-04,2026-04-26,2026-06-25,60,59730645,True,0,Al día
+FV-202604-01070,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-04,2026-04-24,2026-06-08,45,317690557,True,0,Al día
+FV-202604-01071,MiProteína,Distribuidores,Mayorista,Colombia,2026-04,2026-04-17,2026-06-01,45,260699451,True,0,Al día
+FV-202604-01072,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-04,2026-04-25,2026-06-09,45,347747169,True,0,Al día
+FV-202604-01073,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-04,2026-04-07,2026-05-22,45,324170536,True,0,Al día
+FV-202604-01074,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-04,2026-04-01,2026-05-16,45,340482505,True,0,Al día
+FV-202604-01075,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-04,2026-04-04,2026-05-19,45,343592805,True,0,Al día
+FV-202604-01076,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-04,2026-04-24,2026-06-08,45,214663890,True,0,Al día
+FV-202604-01077,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-04,2026-04-19,2026-06-03,45,278414294,True,0,Al día
+FV-202604-01080,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-04,2026-04-25,2026-06-09,45,124013380,True,0,Al día
+FV-202604-01081,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-04,2026-04-06,2026-05-21,45,102622470,True,0,Al día
+FV-202604-01082,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-04,2026-04-06,2026-05-21,45,118676733,True,0,Al día
+FV-202604-01083,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-04,2026-04-06,2026-05-21,45,128280748,True,0,Al día
+FV-202604-01090,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-04,2026-04-27,2026-06-26,60,185460498,True,0,Al día
+FV-202604-01091,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-04,2026-04-08,2026-06-07,60,165340688,True,0,Al día
+FV-202604-01092,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-04,2026-04-09,2026-06-08,60,140437966,True,0,Al día
+FV-202604-01100,Distribuidor España,Nutramerican España,Internacional,España,2026-04,2026-04-04,2026-05-19,45,51486233,True,0,Al día
+FV-202605-01110,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-12,2026-07-26,75,163474475,True,0,Al día
+FV-202605-01111,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-05,2026-07-19,75,179988505,True,0,Al día
+FV-202605-01112,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-18,2026-08-01,75,108960273,True,0,Al día
+FV-202605-01113,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-21,2026-08-04,75,122404063,False,27,Vencida 1-30
+FV-202605-01114,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-11,2026-07-25,75,207981371,True,0,Al día
+FV-202605-01115,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-05,2026-05-14,2026-07-28,75,150613646,False,34,Vencida 31-60
+FV-202605-01120,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-05,2026-05-08,2026-07-07,60,365538877,True,0,Al día
+FV-202605-01130,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-05,2026-05-08,2026-07-07,60,184134272,True,0,Al día
+FV-202605-01140,Distribuidor México,Distribuidor México,Internacional,México,2026-05,2026-05-18,2026-07-17,60,163174826,True,0,Al día
+FV-202605-01150,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-05,2026-05-04,2026-07-03,60,89753900,True,0,Al día
+FV-202605-01160,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-05,2026-05-22,2026-07-06,45,177110998,True,0,Al día
+FV-202605-01161,MiProteína,Distribuidores,Mayorista,Colombia,2026-05,2026-05-18,2026-07-02,45,300804507,True,0,Al día
+FV-202605-01162,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-05,2026-05-10,2026-06-24,45,290075350,True,0,Al día
+FV-202605-01163,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-05,2026-05-07,2026-06-21,45,177558661,True,0,Al día
+FV-202605-01164,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-05,2026-05-27,2026-07-11,45,229334349,True,0,Al día
+FV-202605-01165,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-05,2026-05-27,2026-07-11,45,339016805,True,0,Al día
+FV-202605-01166,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-05,2026-05-11,2026-06-25,45,316102507,True,0,Al día
+FV-202605-01167,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-05,2026-05-11,2026-06-25,45,135312768,True,0,Al día
+FV-202605-01170,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-05,2026-05-06,2026-06-20,45,102873120,True,0,Al día
+FV-202605-01171,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-05,2026-05-01,2026-06-15,45,77572527,True,0,Al día
+FV-202605-01172,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-05,2026-05-04,2026-06-18,45,128126679,True,0,Al día
+FV-202605-01173,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-05,2026-05-23,2026-07-07,45,152411662,True,0,Al día
+FV-202605-01180,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-05,2026-05-02,2026-07-01,60,147126374,True,0,Al día
+FV-202605-01181,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-05,2026-05-18,2026-07-17,60,204521875,False,45,Vencida 31-60
+FV-202605-01182,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-05,2026-05-03,2026-07-02,60,107659977,True,0,Al día
+FV-202605-01190,Distribuidor España,Nutramerican España,Internacional,España,2026-05,2026-05-15,2026-06-29,45,34397340,False,63,Vencida 61-90
+FV-202606-01200,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-07,2026-08-21,75,135333750,True,0,Al día
+FV-202606-01201,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-24,2026-09-07,75,214088610,False,0,Al día
+FV-202606-01202,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-21,2026-09-04,75,213824958,False,0,Al día
+FV-202606-01203,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-17,2026-08-31,75,195141354,False,0,Al día
+FV-202606-01204,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-05,2026-08-19,75,239849075,True,0,Al día
+FV-202606-01205,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-06,2026-06-23,2026-09-06,75,193436144,False,0,Al día
+FV-202606-01210,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-06,2026-06-02,2026-08-01,60,330226977,True,0,Al día
+FV-202606-01220,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-06,2026-06-20,2026-08-19,60,223793919,True,0,Al día
+FV-202606-01230,Distribuidor México,Distribuidor México,Internacional,México,2026-06,2026-06-04,2026-08-03,60,132694903,True,0,Al día
+FV-202606-01240,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-06,2026-06-09,2026-08-08,60,102151878,True,0,Al día
+FV-202606-01250,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-06,2026-06-03,2026-07-18,45,260079868,True,0,Al día
+FV-202606-01251,MiProteína,Distribuidores,Mayorista,Colombia,2026-06,2026-06-22,2026-08-06,45,222175321,True,0,Al día
+FV-202606-01252,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-06,2026-06-16,2026-07-31,45,169518311,True,0,Al día
+FV-202606-01253,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-06,2026-06-05,2026-07-20,45,326900919,True,0,Al día
+FV-202606-01254,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-06,2026-06-13,2026-07-28,45,168779285,True,0,Al día
+FV-202606-01255,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-06,2026-06-27,2026-08-11,45,225238641,False,20,Vencida 1-30
+FV-202606-01256,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-06,2026-06-12,2026-07-27,45,231290768,True,0,Al día
+FV-202606-01257,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-06,2026-06-01,2026-07-16,45,332863774,True,0,Al día
+FV-202606-01260,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-06,2026-06-20,2026-08-04,45,98101669,True,0,Al día
+FV-202606-01261,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-06,2026-06-01,2026-07-16,45,181302141,True,0,Al día
+FV-202606-01262,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-06,2026-06-22,2026-08-06,45,142962350,True,0,Al día
+FV-202606-01263,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-06,2026-06-08,2026-07-23,45,164763419,True,0,Al día
+FV-202606-01270,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-06,2026-06-21,2026-08-20,60,295439867,True,0,Al día
+FV-202606-01271,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-06,2026-06-24,2026-08-23,60,157512024,True,0,Al día
+FV-202606-01272,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-06,2026-06-21,2026-08-20,60,115315102,False,11,Vencida 1-30
+FV-202606-01280,Distribuidor España,Nutramerican España,Internacional,España,2026-06,2026-06-24,2026-08-08,45,17076139,True,0,Al día
+FV-202606-01290,Distribuidor Estados Unidos,Nutramerican USA LLC,Internacional,Estados Unidos,2026-06,2026-06-13,2026-07-13,30,10089160,True,0,Al día
+FV-202607-01300,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-14,2026-09-27,75,223160103,False,0,Al día
+FV-202607-01301,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-10,2026-09-23,75,209699094,False,0,Al día
+FV-202607-01302,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-24,2026-10-07,75,270155969,False,0,Al día
+FV-202607-01303,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-07,2026-09-20,75,254643161,False,0,Al día
+FV-202607-01304,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-26,2026-10-09,75,125515421,False,0,Al día
+FV-202607-01305,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-07,2026-07-21,2026-10-04,75,174402970,False,0,Al día
+FV-202607-01310,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-07,2026-07-04,2026-09-02,60,328131655,False,0,Al día
+FV-202607-01320,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-07,2026-07-01,2026-08-30,60,85232522,False,1,Vencida 1-30
+FV-202607-01330,Distribuidor México,Distribuidor México,Internacional,México,2026-07,2026-07-26,2026-09-24,60,265062739,False,0,Al día
+FV-202607-01340,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-07,2026-07-08,2026-09-06,60,109157870,False,0,Al día
+FV-202607-01350,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-07,2026-07-27,2026-09-10,45,190050745,False,0,Al día
+FV-202607-01351,MiProteína,Distribuidores,Mayorista,Colombia,2026-07,2026-07-04,2026-08-18,45,169902554,True,0,Al día
+FV-202607-01352,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-07,2026-07-20,2026-09-03,45,249615638,False,0,Al día
+FV-202607-01353,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-07,2026-07-10,2026-08-24,45,301814828,False,7,Vencida 1-30
+FV-202607-01354,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-07,2026-07-20,2026-09-03,45,237013081,False,0,Al día
+FV-202607-01355,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-07,2026-07-19,2026-09-02,45,159866582,False,0,Al día
+FV-202607-01356,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-07,2026-07-06,2026-08-20,45,192643341,True,0,Al día
+FV-202607-01357,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-07,2026-07-19,2026-09-02,45,120301372,False,0,Al día
+FV-202607-01360,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-07,2026-07-13,2026-08-27,45,84989597,True,0,Al día
+FV-202607-01361,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-07,2026-07-25,2026-09-08,45,178655470,True,0,Al día
+FV-202607-01362,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-07,2026-07-24,2026-09-07,45,180024561,False,0,Al día
+FV-202607-01363,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-07,2026-07-21,2026-09-04,45,147486945,False,0,Al día
+FV-202607-01370,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-07,2026-07-12,2026-09-10,60,162892901,False,0,Al día
+FV-202607-01371,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-07,2026-07-27,2026-09-25,60,294176100,False,0,Al día
+FV-202607-01372,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-07,2026-07-06,2026-09-04,60,303241111,False,0,Al día
+FV-202607-01380,Distribuidor España,Nutramerican España,Internacional,España,2026-07,2026-07-12,2026-08-26,45,72037852,False,5,Vencida 1-30
+FV-202607-01390,Distribuidor Estados Unidos,Nutramerican USA LLC,Internacional,Estados Unidos,2026-07,2026-07-26,2026-08-25,30,32998448,False,6,Vencida 1-30
+FV-202608-01400,Farmatodo,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-26,2026-11-09,75,92633955,False,0,Al día
+FV-202608-01401,Cruz Verde,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-26,2026-11-09,75,187332619,False,0,Al día
+FV-202608-01402,Droguerías La Rebaja,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-05,2026-10-19,75,209013210,False,0,Al día
+FV-202608-01403,Éxito,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-15,2026-10-29,75,185667135,False,0,Al día
+FV-202608-01404,Locatel,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-04,2026-10-18,75,105897846,False,0,Al día
+FV-202608-01405,Olímpica,Cadenas & Farmacias,Retail,Colombia,2026-08,2026-08-10,2026-10-24,75,234340591,False,0,Al día
+FV-202608-01410,Distribuidor Ecuador,Distribuidor Ecuador,Internacional,Ecuador,2026-08,2026-08-12,2026-10-11,60,197956256,False,0,Al día
+FV-202608-01420,Distribuidor Honduras,Distribuidor Honduras,Internacional,Honduras,2026-08,2026-08-16,2026-10-15,60,151339718,False,0,Al día
+FV-202608-01430,Distribuidor México,Distribuidor México,Internacional,México,2026-08,2026-08-05,2026-10-04,60,188740850,True,0,Al día
+FV-202608-01440,Distribuidor Panamá,Distribuidor Panamá,Internacional,Panamá,2026-08,2026-08-01,2026-09-30,60,82521479,False,0,Al día
+FV-202608-01450,Suples Colombia,Distribuidores,Mayorista,Colombia,2026-08,2026-08-22,2026-10-06,45,133259483,False,0,Al día
+FV-202608-01451,MiProteína,Distribuidores,Mayorista,Colombia,2026-08,2026-08-27,2026-10-11,45,280882841,False,0,Al día
+FV-202608-01452,Suplementos Colombia,Distribuidores,Mayorista,Colombia,2026-08,2026-08-08,2026-09-22,45,187577691,False,0,Al día
+FV-202608-01453,Nutrición Total,Distribuidores,Mayorista,Colombia,2026-08,2026-08-09,2026-09-23,45,315799067,False,0,Al día
+FV-202608-01454,Distribuidora Andina,Distribuidores,Mayorista,Colombia,2026-08,2026-08-20,2026-10-04,45,228925855,False,0,Al día
+FV-202608-01455,Mundo Fitness,Distribuidores,Mayorista,Colombia,2026-08,2026-08-20,2026-10-04,45,151427175,False,0,Al día
+FV-202608-01456,Vital Supplements,Distribuidores,Mayorista,Colombia,2026-08,2026-08-11,2026-09-25,45,183494496,True,0,Al día
+FV-202608-01457,Anabólicos del Valle,Distribuidores,Mayorista,Colombia,2026-08,2026-08-12,2026-09-26,45,156681539,False,0,Al día
+FV-202608-01460,Bodytech,Gimnasios & Wellness,Especializado,Colombia,2026-08,2026-08-05,2026-09-19,45,81482095,True,0,Al día
+FV-202608-01461,Smart Fit,Gimnasios & Wellness,Especializado,Colombia,2026-08,2026-08-16,2026-09-30,45,87548924,False,0,Al día
+FV-202608-01462,Stark Gym,Gimnasios & Wellness,Especializado,Colombia,2026-08,2026-08-19,2026-10-03,45,153544074,True,0,Al día
+FV-202608-01463,Gimnasios independientes,Gimnasios & Wellness,Especializado,Colombia,2026-08,2026-08-25,2026-10-09,45,149672855,False,0,Al día
+FV-202608-01470,Cliente maquila lácteos,Maquila & Marca Propia,Maquila,Colombia,2026-08,2026-08-08,2026-10-07,60,264379236,False,0,Al día
+FV-202608-01471,Marca privada retail,Maquila & Marca Propia,Maquila,Colombia,2026-08,2026-08-19,2026-10-18,60,200817577,False,0,Al día
+FV-202608-01472,Marca privada gimnasios,Maquila & Marca Propia,Maquila,Colombia,2026-08,2026-08-13,2026-10-12,60,130018505,False,0,Al día
+FV-202608-01480,Distribuidor España,Nutramerican España,Internacional,España,2026-08,2026-08-12,2026-09-26,45,59806374,False,0,Al día
+FV-202608-01490,Distribuidor Estados Unidos,Nutramerican USA LLC,Internacional,Estados Unidos,2026-08,2026-08-11,2026-09-10,30,65973714,False,0,Al día

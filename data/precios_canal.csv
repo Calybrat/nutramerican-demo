@@ -1,0 +1,573 @@
+sku,producto,marca,categoria,canal,tipo_canal,pais,pvp_gondola_cop,precio_neto_cop,costo_unitario_cop,margen_cop,margen_pct
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,120900,120900,47600,73300,60.6
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,120300,120300,47600,72700,60.4
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,140200,98100,47600,50500,51.5
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,147300,97200,47600,49600,51.0
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,143300,103200,47600,55600,53.9
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,136200,100800,47600,53200,52.8
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,143900,103600,47600,56000,54.1
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,137300,101600,47600,54000,53.1
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,140000,103600,47600,56000,54.1
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,167300,133800,47600,86200,64.4
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,179000,152200,47600,104600,68.7
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,252600,252600,94600,158000,62.5
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,247700,247700,94600,153100,61.8
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,292900,205000,94600,110400,53.9
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,313100,206600,94600,112000,54.2
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,310800,223800,94600,129200,57.7
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,284300,210400,94600,115800,55.0
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,312800,225200,94600,130600,58.0
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,276200,204400,94600,109800,53.7
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,295000,218300,94600,123700,56.7
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,351800,281400,94600,186800,66.4
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,389700,331200,94600,236600,71.4
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,253600,253600,94600,159000,62.7
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,255200,255200,94600,160600,62.9
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,288100,201700,94600,107100,53.1
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,313400,206800,94600,112200,54.3
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,295400,212700,94600,118100,55.5
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,285900,211600,94600,117000,55.3
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,307200,221200,94600,126600,57.2
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,289300,214100,94600,119500,55.8
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,295100,218400,94600,123800,56.7
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,356100,284900,94600,190300,66.8
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,371600,315900,94600,221300,70.1
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,256900,256900,92100,164800,64.1
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,252300,252300,92100,160200,63.5
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,298500,209000,92100,116900,55.9
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,323600,213600,92100,121500,56.9
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,293400,211200,92100,119100,56.4
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,305100,225800,92100,133700,59.2
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,324800,233900,92100,141800,60.6
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,294000,217600,92100,125500,57.7
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,299200,221400,92100,129300,58.4
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,355800,284600,92100,192500,67.6
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,386800,328800,92100,236700,72.0
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,122800,122800,54600,68200,55.5
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,123900,123900,54600,69300,55.9
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,145400,101800,54600,47200,46.4
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,154700,102100,54600,47500,46.5
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,153000,110200,54600,55600,50.5
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,142100,105200,54600,50600,48.1
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,148000,106600,54600,52000,48.8
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,138200,102300,54600,47700,46.6
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,143200,106000,54600,51400,48.5
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,174100,139300,54600,84700,60.8
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,184700,157000,54600,102400,65.2
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,338400,338400,138200,200200,59.2
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,324700,324700,138200,186500,57.4
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,390400,273300,138200,135100,49.4
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,397000,262000,138200,123800,47.3
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,396300,285300,138200,147100,51.6
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,367000,271600,138200,133400,49.1
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,395200,284500,138200,146300,51.4
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,393700,291300,138200,153100,52.6
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,383200,283600,138200,145400,51.3
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,488800,391000,138200,252800,64.7
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,505100,429300,138200,291100,67.8
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,327900,327900,138200,189700,57.9
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,324300,324300,138200,186100,57.4
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,399200,279400,138200,141200,50.5
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,406400,268200,138200,130000,48.5
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,408100,293800,138200,155600,53.0
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,375600,277900,138200,139700,50.3
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,401900,289400,138200,151200,52.2
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,378900,280400,138200,142200,50.7
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,391400,289600,138200,151400,52.3
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,464100,371300,138200,233100,62.8
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,492800,418900,138200,280700,67.0
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,327600,327600,138200,189400,57.8
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,322800,322800,138200,184600,57.2
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,394000,275800,138200,137600,49.9
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,413200,272700,138200,134500,49.3
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,377800,272000,138200,133800,49.2
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,366500,271200,138200,133000,49.0
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,390100,280900,138200,142700,50.8
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,376000,278200,138200,140000,50.3
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,405600,300100,138200,161900,53.9
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,473000,378400,138200,240200,63.5
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,502800,427400,138200,289200,67.7
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,243200,243200,97100,146100,60.1
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,nutramerican.com,E-commerce,Colombia,243300,243300,97100,146200,60.1
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Distribuidores,Mayorista,Colombia,281200,196800,97100,99700,50.7
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,308600,203700,97100,106600,52.3
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,305000,219600,97100,122500,55.8
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,286600,212100,97100,115000,54.2
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Distribuidor México,Internacional,México,313100,225400,97100,128300,56.9
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,285100,211000,97100,113900,54.0
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,293600,217300,97100,120200,55.3
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Nutramerican España,Internacional,España,365200,292200,97100,195100,66.8
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,382500,325100,97100,228000,70.1
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Tiendas Nutramerican,Tienda propia,Colombia,255300,255300,94600,160700,62.9
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,nutramerican.com,E-commerce,Colombia,244600,244600,94600,150000,61.3
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Distribuidores,Mayorista,Colombia,279000,195300,94600,100700,51.6
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Cadenas & Farmacias,Retail,Colombia,309500,204300,94600,109700,53.7
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Gimnasios & Wellness,Especializado,Colombia,294800,212300,94600,117700,55.4
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Distribuidor Ecuador,Internacional,Ecuador,288700,213600,94600,119000,55.7
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Distribuidor México,Internacional,México,314900,226700,94600,132100,58.3
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Distribuidor Honduras,Internacional,Honduras,277000,205000,94600,110400,53.9
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Distribuidor Panamá,Internacional,Panamá,298800,221100,94600,126500,57.2
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Nutramerican España,Internacional,España,368600,294900,94600,200300,67.9
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,Nutramerican USA LLC,Internacional,Estados Unidos,382300,325000,94600,230400,70.9
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Tiendas Nutramerican,Tienda propia,Colombia,255100,255100,102100,153000,60.0
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,nutramerican.com,E-commerce,Colombia,246500,246500,102100,144400,58.6
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Distribuidores,Mayorista,Colombia,289400,202600,102100,100500,49.6
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Cadenas & Farmacias,Retail,Colombia,315800,208400,102100,106300,51.0
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Gimnasios & Wellness,Especializado,Colombia,303500,218500,102100,116400,53.3
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Distribuidor Ecuador,Internacional,Ecuador,297700,220300,102100,118200,53.7
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Distribuidor México,Internacional,México,305200,219700,102100,117600,53.5
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Distribuidor Honduras,Internacional,Honduras,294000,217600,102100,115500,53.1
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Distribuidor Panamá,Internacional,Panamá,292000,216100,102100,114000,52.8
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Nutramerican España,Internacional,España,352600,282100,102100,180000,63.8
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,Nutramerican USA LLC,Internacional,Estados Unidos,361500,307300,102100,205200,66.8
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,78000,78000,28800,49200,63.1
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,nutramerican.com,E-commerce,Colombia,81300,81300,28800,52500,64.6
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Distribuidores,Mayorista,Colombia,91200,63800,28800,35000,54.9
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,98100,64700,28800,35900,55.5
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,100300,72200,28800,43400,60.1
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,94400,69900,28800,41100,58.8
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Distribuidor México,Internacional,México,101300,72900,28800,44100,60.5
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,89100,65900,28800,37100,56.3
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,89200,66000,28800,37200,56.4
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Nutramerican España,Internacional,España,119700,95800,28800,67000,69.9
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,117700,100000,28800,71200,71.2
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,300500,300500,102000,198500,66.1
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,nutramerican.com,E-commerce,Colombia,301300,301300,102000,199300,66.1
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Distribuidores,Mayorista,Colombia,346500,242500,102000,140500,57.9
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,384600,253800,102000,151800,59.8
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,372100,267900,102000,165900,61.9
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,352100,260600,102000,158600,60.9
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Distribuidor México,Internacional,México,365600,263200,102000,161200,61.2
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,343300,254000,102000,152000,59.8
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,345300,255500,102000,153500,60.1
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Nutramerican España,Internacional,España,432600,346100,102000,244100,70.5
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,454800,386600,102000,284600,73.6
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Tiendas Nutramerican,Tienda propia,Colombia,112800,112800,49400,63400,56.2
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,nutramerican.com,E-commerce,Colombia,117100,117100,49400,67700,57.8
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Distribuidores,Mayorista,Colombia,131400,92000,49400,42600,46.3
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Cadenas & Farmacias,Retail,Colombia,141200,93200,49400,43800,47.0
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Gimnasios & Wellness,Especializado,Colombia,131100,94400,49400,45000,47.7
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Distribuidor Ecuador,Internacional,Ecuador,134800,99800,49400,50400,50.5
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Distribuidor México,Internacional,México,142600,102700,49400,53300,51.9
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Distribuidor Honduras,Internacional,Honduras,132900,98300,49400,48900,49.7
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Distribuidor Panamá,Internacional,Panamá,144400,106900,49400,57500,53.8
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Nutramerican España,Internacional,España,170200,136200,49400,86800,63.7
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,Nutramerican USA LLC,Internacional,Estados Unidos,171200,145500,49400,96100,66.0
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Tiendas Nutramerican,Tienda propia,Colombia,232900,232900,96800,136100,58.4
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,nutramerican.com,E-commerce,Colombia,215500,215500,96800,118700,55.1
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Distribuidores,Mayorista,Colombia,264100,184900,96800,88100,47.6
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Cadenas & Farmacias,Retail,Colombia,277200,183000,96800,86200,47.1
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Gimnasios & Wellness,Especializado,Colombia,258900,186400,96800,89600,48.1
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Distribuidor Ecuador,Internacional,Ecuador,263000,194600,96800,97800,50.3
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Distribuidor México,Internacional,México,270500,194800,96800,98000,50.3
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Distribuidor Honduras,Internacional,Honduras,253900,187900,96800,91100,48.5
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Distribuidor Panamá,Internacional,Panamá,255700,189200,96800,92400,48.8
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Nutramerican España,Internacional,España,328100,262500,96800,165700,63.1
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,Nutramerican USA LLC,Internacional,Estados Unidos,328100,278900,96800,182100,65.3
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,76900,76900,31200,45700,59.4
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,nutramerican.com,E-commerce,Colombia,82500,82500,31200,51300,62.2
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Distribuidores,Mayorista,Colombia,93500,65400,31200,34200,52.3
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,99300,65500,31200,34300,52.4
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,100000,72000,31200,40800,56.7
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,95100,70400,31200,39200,55.7
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Distribuidor México,Internacional,México,98900,71200,31200,40000,56.2
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,93300,69000,31200,37800,54.8
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,92900,68700,31200,37500,54.6
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Nutramerican España,Internacional,España,117900,94300,31200,63100,66.9
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,124600,105900,31200,74700,70.5
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,81300,81300,31200,50100,61.6
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,nutramerican.com,E-commerce,Colombia,79600,79600,31200,48400,60.8
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Distribuidores,Mayorista,Colombia,86600,60600,31200,29400,48.5
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,100400,66300,31200,35100,52.9
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,96200,69300,31200,38100,55.0
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,92000,68100,31200,36900,54.2
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Distribuidor México,Internacional,México,99300,71500,31200,40300,56.4
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,91700,67900,31200,36700,54.1
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,94800,70200,31200,39000,55.6
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Nutramerican España,Internacional,España,112200,89800,31200,58600,65.3
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,117700,100000,31200,68800,68.8
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,95800,95800,35100,60700,63.4
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,nutramerican.com,E-commerce,Colombia,95100,95100,35100,60000,63.1
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Distribuidores,Mayorista,Colombia,112400,78700,35100,43600,55.4
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,118200,78000,35100,42900,55.0
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,115000,82800,35100,47700,57.6
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,110300,81600,35100,46500,57.0
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Distribuidor México,Internacional,México,116300,83700,35100,48600,58.1
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,108900,80600,35100,45500,56.5
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,114400,84700,35100,49600,58.6
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Nutramerican España,Internacional,España,136200,109000,35100,73900,67.8
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,146900,124900,35100,89800,71.9
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,71000,71000,24500,46500,65.5
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,nutramerican.com,E-commerce,Colombia,70200,70200,24500,45700,65.1
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Distribuidores,Mayorista,Colombia,81700,57200,24500,32700,57.2
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,87500,57700,24500,33200,57.5
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,85600,61600,24500,37100,60.2
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,79300,58700,24500,34200,58.3
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Distribuidor México,Internacional,México,85500,61600,24500,37100,60.2
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,79900,59100,24500,34600,58.5
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,81400,60200,24500,35700,59.3
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Nutramerican España,Internacional,España,100100,80100,24500,55600,69.4
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,102800,87400,24500,62900,72.0
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,146300,146300,52500,93800,64.1
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,nutramerican.com,E-commerce,Colombia,144900,144900,52500,92400,63.8
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Distribuidores,Mayorista,Colombia,174600,122200,52500,69700,57.0
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,183700,121200,52500,68700,56.7
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,177800,128000,52500,75500,59.0
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,175400,129800,52500,77300,59.6
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Distribuidor México,Internacional,México,182200,131200,52500,78700,60.0
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,168200,124500,52500,72000,57.8
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,174200,128900,52500,76400,59.3
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Nutramerican España,Internacional,España,212100,169700,52500,117200,69.1
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,227000,193000,52500,140500,72.8
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,124300,124300,51200,73100,58.8
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,nutramerican.com,E-commerce,Colombia,129400,129400,51200,78200,60.4
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Distribuidores,Mayorista,Colombia,152400,106700,51200,55500,52.0
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,159900,105500,51200,54300,51.5
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,156700,112800,51200,61600,54.6
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,141000,104300,51200,53100,50.9
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Distribuidor México,Internacional,México,154600,111300,51200,60100,54.0
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,144800,107200,51200,56000,52.2
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,148900,110200,51200,59000,53.5
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Nutramerican España,Internacional,España,189600,151700,51200,100500,66.2
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,200400,170300,51200,119100,69.9
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Tiendas Nutramerican,Tienda propia,Colombia,143000,143000,47600,95400,66.7
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,nutramerican.com,E-commerce,Colombia,142000,142000,47600,94400,66.5
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Distribuidores,Mayorista,Colombia,161100,112800,47600,65200,57.8
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Cadenas & Farmacias,Retail,Colombia,169300,111700,47600,64100,57.4
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Gimnasios & Wellness,Especializado,Colombia,170600,122800,47600,75200,61.2
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Distribuidor Ecuador,Internacional,Ecuador,162100,120000,47600,72400,60.3
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Distribuidor México,Internacional,México,165800,119400,47600,71800,60.1
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Distribuidor Honduras,Internacional,Honduras,159200,117800,47600,70200,59.6
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Distribuidor Panamá,Internacional,Panamá,166500,123200,47600,75600,61.4
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Nutramerican España,Internacional,España,207200,165800,47600,118200,71.3
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,Nutramerican USA LLC,Internacional,Estados Unidos,212300,180500,47600,132900,73.6
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Tiendas Nutramerican,Tienda propia,Colombia,188500,188500,106200,82300,43.7
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,nutramerican.com,E-commerce,Colombia,189600,189600,106200,83400,44.0
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Distribuidores,Mayorista,Colombia,224600,157200,106200,51000,32.4
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Cadenas & Farmacias,Retail,Colombia,229100,151200,106200,45000,29.8
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Gimnasios & Wellness,Especializado,Colombia,231700,166800,106200,60600,36.3
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Distribuidor Ecuador,Internacional,Ecuador,230500,170600,106200,64400,37.7
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Distribuidor México,Internacional,México,235500,169600,106200,63400,37.4
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Distribuidor Honduras,Internacional,Honduras,209300,154900,106200,48700,31.4
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Distribuidor Panamá,Internacional,Panamá,224200,165900,106200,59700,36.0
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Nutramerican España,Internacional,España,264200,211400,106200,105200,49.8
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,Nutramerican USA LLC,Internacional,Estados Unidos,276600,235100,106200,128900,54.8
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Tiendas Nutramerican,Tienda propia,Colombia,102900,102900,56800,46100,44.8
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,nutramerican.com,E-commerce,Colombia,101600,101600,56800,44800,44.1
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Distribuidores,Mayorista,Colombia,117900,82500,56800,25700,31.2
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Cadenas & Farmacias,Retail,Colombia,120000,79200,56800,22400,28.3
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Gimnasios & Wellness,Especializado,Colombia,118300,85200,56800,28400,33.3
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Distribuidor Ecuador,Internacional,Ecuador,118100,87400,56800,30600,35.0
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Distribuidor México,Internacional,México,123900,89200,56800,32400,36.3
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Distribuidor Honduras,Internacional,Honduras,117400,86900,56800,30100,34.6
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Distribuidor Panamá,Internacional,Panamá,123700,91500,56800,34700,37.9
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Nutramerican España,Internacional,España,146000,116800,56800,60000,51.4
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,Nutramerican USA LLC,Internacional,Estados Unidos,155800,132400,56800,75600,57.1
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,99700,99700,38000,61700,61.9
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,nutramerican.com,E-commerce,Colombia,98900,98900,38000,60900,61.6
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Distribuidores,Mayorista,Colombia,117400,82200,38000,44200,53.8
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Cadenas & Farmacias,Retail,Colombia,126600,83600,38000,45600,54.5
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,117300,84500,38000,46500,55.0
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,118900,88000,38000,50000,56.8
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Distribuidor México,Internacional,México,126000,90700,38000,52700,58.1
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Distribuidor Honduras,Internacional,Honduras,114100,84400,38000,46400,55.0
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Distribuidor Panamá,Internacional,Panamá,118600,87800,38000,49800,56.7
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Nutramerican España,Internacional,España,140500,112400,38000,74400,66.2
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,159900,135900,38000,97900,72.0
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,76100,76100,27600,48500,63.7
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,nutramerican.com,E-commerce,Colombia,74800,74800,27600,47200,63.1
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Distribuidores,Mayorista,Colombia,88000,61600,27600,34000,55.2
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Cadenas & Farmacias,Retail,Colombia,93300,61600,27600,34000,55.2
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,88100,63400,27600,35800,56.5
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,87000,64400,27600,36800,57.1
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Distribuidor México,Internacional,México,89000,64100,27600,36500,56.9
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Distribuidor Honduras,Internacional,Honduras,85900,63600,27600,36000,56.6
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Distribuidor Panamá,Internacional,Panamá,86600,64100,27600,36500,56.9
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Nutramerican España,Internacional,España,110200,88200,27600,60600,68.7
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,112900,96000,27600,68400,71.2
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,65400,65400,23400,42000,64.2
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,nutramerican.com,E-commerce,Colombia,69200,69200,23400,45800,66.2
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Distribuidores,Mayorista,Colombia,78000,54600,23400,31200,57.1
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,81100,53500,23400,30100,56.3
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,78100,56200,23400,32800,58.4
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,73700,54500,23400,31100,57.1
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Distribuidor México,Internacional,México,81200,58500,23400,35100,60.0
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,76700,56800,23400,33400,58.8
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,76800,56800,23400,33400,58.8
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Nutramerican España,Internacional,España,97700,78200,23400,54800,70.1
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,98500,83700,23400,60300,72.0
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Tiendas Nutramerican,Tienda propia,Colombia,373800,373800,155600,218200,58.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,nutramerican.com,E-commerce,Colombia,383400,383400,155600,227800,59.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Distribuidores,Mayorista,Colombia,448300,313800,155600,158200,50.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Cadenas & Farmacias,Retail,Colombia,479400,316400,155600,160800,50.8
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Gimnasios & Wellness,Especializado,Colombia,473200,340700,155600,185100,54.3
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Distribuidor Ecuador,Internacional,Ecuador,442000,327100,155600,171500,52.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Distribuidor México,Internacional,México,473700,341100,155600,185500,54.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Distribuidor Honduras,Internacional,Honduras,445400,329600,155600,174000,52.8
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Distribuidor Panamá,Internacional,Panamá,451600,334200,155600,178600,53.4
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Nutramerican España,Internacional,España,552800,442200,155600,286600,64.8
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,Nutramerican USA LLC,Internacional,Estados Unidos,592400,503500,155600,347900,69.1
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,61000,61000,27600,33400,54.8
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,nutramerican.com,E-commerce,Colombia,59100,59100,27600,31500,53.3
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Distribuidores,Mayorista,Colombia,69500,48600,27600,21000,43.2
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,74000,48800,27600,21200,43.4
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,72300,52100,27600,24500,47.0
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,68700,50800,27600,23200,45.7
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Distribuidor México,Internacional,México,72500,52200,27600,24600,47.1
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,67900,50200,27600,22600,45.0
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,69000,51100,27600,23500,46.0
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Nutramerican España,Internacional,España,86500,69200,27600,41600,60.1
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,89900,76400,27600,48800,63.9
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,67200,67200,30500,36700,54.6
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,nutramerican.com,E-commerce,Colombia,64200,64200,30500,33700,52.5
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Distribuidores,Mayorista,Colombia,77400,54200,30500,23700,43.7
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,81100,53500,30500,23000,43.0
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,76000,54700,30500,24200,44.2
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,73200,54200,30500,23700,43.7
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Distribuidor México,Internacional,México,78400,56400,30500,25900,45.9
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,75100,55600,30500,25100,45.1
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,75600,55900,30500,25400,45.4
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Nutramerican España,Internacional,España,92700,74200,30500,43700,58.9
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,92400,78500,30500,48000,61.1
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Tiendas Nutramerican,Tienda propia,Colombia,64400,64400,27300,37100,57.6
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,nutramerican.com,E-commerce,Colombia,65400,65400,27300,38100,58.3
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Distribuidores,Mayorista,Colombia,77400,54200,27300,26900,49.6
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Cadenas & Farmacias,Retail,Colombia,81300,53700,27300,26400,49.2
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Gimnasios & Wellness,Especializado,Colombia,77400,55700,27300,28400,51.0
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Distribuidor Ecuador,Internacional,Ecuador,75000,55500,27300,28200,50.8
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Distribuidor México,Internacional,México,80700,58100,27300,30800,53.0
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Distribuidor Honduras,Internacional,Honduras,73900,54700,27300,27400,50.1
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Distribuidor Panamá,Internacional,Panamá,72800,53900,27300,26600,49.4
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Nutramerican España,Internacional,España,96400,77100,27300,49800,64.6
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,96400,81900,27300,54600,66.7
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,36000,36000,15400,20600,57.2
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,36300,36300,15400,20900,57.6
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,42000,29400,15400,14000,47.6
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,44300,29200,15400,13800,47.3
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,43700,31500,15400,16100,51.1
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,39600,29300,15400,13900,47.4
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Distribuidor México,Internacional,México,42900,30900,15400,15500,50.2
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,40100,29700,15400,14300,48.1
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,40400,29900,15400,14500,48.5
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Nutramerican España,Internacional,España,53000,42400,15400,27000,63.7
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,52500,44600,15400,29200,65.5
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,29500,29500,13500,16000,54.2
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,30200,30200,13500,16700,55.3
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,36200,25300,13500,11800,46.6
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,36700,24200,13500,10700,44.2
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,35500,25600,13500,12100,47.3
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,35200,26000,13500,12500,48.1
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Distribuidor México,Internacional,México,35400,25500,13500,12000,47.1
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,33600,24900,13500,11400,45.8
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,34700,25700,13500,12200,47.5
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Nutramerican España,Internacional,España,43100,34500,13500,21000,60.9
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,45400,38600,13500,25100,65.0
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,51900,51900,21500,30400,58.6
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,50900,50900,21500,29400,57.8
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,58900,41200,21500,19700,47.8
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,61600,40700,21500,19200,47.2
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,61000,43900,21500,22400,51.0
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,58400,43200,21500,21700,50.2
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Distribuidor México,Internacional,México,62100,44700,21500,23200,51.9
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,58600,43400,21500,21900,50.5
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,57600,42600,21500,21100,49.5
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Nutramerican España,Internacional,España,68800,55000,21500,33500,60.9
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,75800,64400,21500,42900,66.6
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,65100,65100,21400,43700,67.1
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,65400,65400,21400,44000,67.3
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,75700,53000,21400,31600,59.6
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,80200,52900,21400,31500,59.5
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,78900,56800,21400,35400,62.3
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,76400,56500,21400,35100,62.1
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Distribuidor México,Internacional,México,81600,58800,21400,37400,63.6
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,70600,52200,21400,30800,59.0
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,73900,54700,21400,33300,60.9
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Nutramerican España,Internacional,España,97300,77800,21400,56400,72.5
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,100100,85100,21400,63700,74.9
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,19200,19200,9100,10100,52.6
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,18800,18800,9100,9700,51.6
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,22100,15500,9100,6400,41.3
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,23500,15500,9100,6400,41.3
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,22200,16000,9100,6900,43.1
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,21200,15700,9100,6600,42.0
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Distribuidor México,Internacional,México,22500,16200,9100,7100,43.8
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,21600,16000,9100,6900,43.1
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,22600,16700,9100,7600,45.5
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Nutramerican España,Internacional,España,28400,22700,9100,13600,59.9
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,29000,24600,9100,15500,63.0
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Tiendas Nutramerican,Tienda propia,Colombia,32800,32800,15900,16900,51.5
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,nutramerican.com,E-commerce,Colombia,33700,33700,15900,17800,52.8
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Distribuidores,Mayorista,Colombia,37700,26400,15900,10500,39.8
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Cadenas & Farmacias,Retail,Colombia,39400,26000,15900,10100,38.8
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Gimnasios & Wellness,Especializado,Colombia,38500,27700,15900,11800,42.6
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Distribuidor Ecuador,Internacional,Ecuador,37600,27800,15900,11900,42.8
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Distribuidor México,Internacional,México,41400,29800,15900,13900,46.6
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Distribuidor Honduras,Internacional,Honduras,36800,27200,15900,11300,41.5
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Distribuidor Panamá,Internacional,Panamá,39500,29200,15900,13300,45.5
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Nutramerican España,Internacional,España,46600,37300,15900,21400,57.4
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,Nutramerican USA LLC,Internacional,Estados Unidos,49900,42400,15900,26500,62.5
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,121700,121700,45600,76100,62.5
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,121300,121300,45600,75700,62.4
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,143800,100700,45600,55100,54.7
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,146400,96600,45600,51000,52.8
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,148500,106900,45600,61300,57.3
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,142100,105200,45600,59600,56.7
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Distribuidor México,Internacional,México,144000,103700,45600,58100,56.0
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,138200,102300,45600,56700,55.4
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,138100,102200,45600,56600,55.4
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Nutramerican España,Internacional,España,174200,139400,45600,93800,67.3
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,177600,151000,45600,105400,69.8
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,86200,86200,31400,54800,63.6
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,90400,90400,31400,59000,65.3
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,103400,72400,31400,41000,56.6
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,107000,70600,31400,39200,55.5
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,99900,71900,31400,40500,56.3
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,99300,73500,31400,42100,57.3
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Distribuidor México,Internacional,México,106300,76500,31400,45100,59.0
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,96600,71500,31400,40100,56.1
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,100500,74400,31400,43000,57.8
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Nutramerican España,Internacional,España,118500,94800,31400,63400,66.9
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,126600,107600,31400,76200,70.8
+RAD-ENX,Energy X,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,28800,28800,15600,13200,45.8
+RAD-ENX,Energy X,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,31300,31300,15600,15700,50.2
+RAD-ENX,Energy X,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,35800,25100,15600,9500,37.8
+RAD-ENX,Energy X,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,37800,24900,15600,9300,37.3
+RAD-ENX,Energy X,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,35800,25800,15600,10200,39.5
+RAD-ENX,Energy X,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,33700,24900,15600,9300,37.3
+RAD-ENX,Energy X,Radical,Energía y recuperación,Distribuidor México,Internacional,México,36700,26400,15600,10800,40.9
+RAD-ENX,Energy X,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,33700,24900,15600,9300,37.3
+RAD-ENX,Energy X,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,34600,25600,15600,10000,39.1
+RAD-ENX,Energy X,Radical,Energía y recuperación,Nutramerican España,Internacional,España,43500,34800,15600,19200,55.2
+RAD-ENX,Energy X,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,45700,38800,15600,23200,59.8
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,188800,188800,108100,80700,42.7
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,186400,186400,108100,78300,42.0
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,218900,153200,108100,45100,29.4
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,235100,155200,108100,47100,30.3
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,233600,168200,108100,60100,35.7
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,212200,157000,108100,48900,31.1
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Distribuidor México,Internacional,México,228000,164200,108100,56100,34.2
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,215400,159400,108100,51300,32.2
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,222900,164900,108100,56800,34.4
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Nutramerican España,Internacional,España,271300,217000,108100,108900,50.2
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,300400,255300,108100,147200,57.7
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,102300,102300,57800,44500,43.5
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,99300,99300,57800,41500,41.8
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,114800,80400,57800,22600,28.1
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,125300,82700,57800,24900,30.1
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,125700,90500,57800,32700,36.1
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,118200,87500,57800,29700,33.9
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Distribuidor México,Internacional,México,117500,84600,57800,26800,31.7
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,112100,83000,57800,25200,30.4
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,120000,88800,57800,31000,34.9
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Nutramerican España,Internacional,España,150600,120500,57800,62700,52.0
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,154700,131500,57800,73700,56.0
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,190200,190200,104300,85900,45.2
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,194100,194100,104300,89800,46.3
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,229900,160900,104300,56600,35.2
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,231600,152900,104300,48600,31.8
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,229700,165400,104300,61100,36.9
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,215300,159300,104300,55000,34.5
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Distribuidor México,Internacional,México,225800,162600,104300,58300,35.9
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,218900,162000,104300,57700,35.6
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,216700,160400,104300,56100,35.0
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Nutramerican España,Internacional,España,275900,220700,104300,116400,52.7
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,290200,246700,104300,142400,57.7
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,103400,103400,55800,47600,46.0
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,98900,98900,55800,43100,43.6
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,120700,84500,55800,28700,34.0
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,125500,82800,55800,27000,32.6
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,125700,90500,55800,34700,38.3
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,115800,85700,55800,29900,34.9
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Distribuidor México,Internacional,México,120700,86900,55800,31100,35.8
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,116900,86500,55800,30700,35.5
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,117500,87000,55800,31200,35.9
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Nutramerican España,Internacional,España,142900,114300,55800,58500,51.2
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,157300,133700,55800,77900,58.3
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Tiendas Nutramerican,Tienda propia,Colombia,31900,31900,17400,14500,45.5
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,nutramerican.com,E-commerce,Colombia,29400,29400,17400,12000,40.8
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Distribuidores,Mayorista,Colombia,36500,25600,17400,8200,32.0
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Cadenas & Farmacias,Retail,Colombia,38200,25200,17400,7800,31.0
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Gimnasios & Wellness,Especializado,Colombia,38500,27700,17400,10300,37.2
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Distribuidor Ecuador,Internacional,Ecuador,37800,28000,17400,10600,37.9
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Distribuidor México,Internacional,México,40300,29000,17400,11600,40.0
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Distribuidor Honduras,Internacional,Honduras,36600,27100,17400,9700,35.8
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Distribuidor Panamá,Internacional,Panamá,36400,26900,17400,9500,35.3
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Nutramerican España,Internacional,España,44700,35800,17400,18400,51.4
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,Nutramerican USA LLC,Internacional,Estados Unidos,47000,40000,17400,22600,56.5
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,166800,166800,84100,82700,49.6
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,169600,169600,84100,85500,50.4
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,186500,130500,84100,46400,35.6
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,207300,136800,84100,52700,38.5
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,202000,145400,84100,61300,42.2
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,192700,142600,84100,58500,41.0
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,215600,155200,84100,71100,45.8
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,190300,140800,84100,56700,40.3
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,194800,144200,84100,60100,41.7
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,242400,193900,84100,109800,56.6
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,247800,210600,84100,126500,60.1
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,161000,161000,84100,76900,47.8
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,166500,166500,84100,82400,49.5
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,199600,139700,84100,55600,39.8
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,203500,134300,84100,50200,37.4
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,202000,145400,84100,61300,42.2
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,189800,140500,84100,56400,40.1
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,208500,150100,84100,66000,44.0
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,189000,139900,84100,55800,39.9
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,197000,145800,84100,61700,42.3
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,243300,194600,84100,110500,56.8
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,243300,206800,84100,122700,59.3
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,74700,74700,33700,41000,54.9
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,78000,78000,33700,44300,56.8
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,88600,62000,33700,28300,45.6
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,95900,63300,33700,29600,46.8
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,91700,66000,33700,32300,48.9
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,83500,61800,33700,28100,45.5
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,92900,66900,33700,33200,49.6
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,83400,61700,33700,28000,45.4
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,89000,65900,33700,32200,48.9
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,107700,86200,33700,52500,60.9
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,114000,96900,33700,63200,65.2
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,74900,74900,33700,41200,55.0
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,75400,75400,33700,41700,55.3
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,87600,61300,33700,27600,45.0
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,90200,59500,33700,25800,43.4
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,88000,63400,33700,29700,46.8
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,88700,65600,33700,31900,48.6
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,95000,68400,33700,34700,50.7
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,85900,63600,33700,29900,47.0
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,90100,66700,33700,33000,49.5
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,111100,88900,33700,55200,62.1
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,110600,94000,33700,60300,64.1
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,57500,57500,26400,31100,54.1
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,59900,59900,26400,33500,55.9
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,67800,47500,26400,21100,44.4
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,73900,48800,26400,22400,45.9
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,69600,50100,26400,23700,47.3
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,68600,50800,26400,24400,48.0
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,72000,51800,26400,25400,49.0
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,69200,51200,26400,24800,48.4
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,69800,51700,26400,25300,48.9
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,84800,67800,26400,41400,61.1
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,91300,77600,26400,51200,66.0
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Tiendas Nutramerican,Tienda propia,Colombia,53300,53300,22000,31300,58.7
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,nutramerican.com,E-commerce,Colombia,50500,50500,22000,28500,56.4
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Distribuidores,Mayorista,Colombia,56500,39600,22000,17600,44.4
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Cadenas & Farmacias,Retail,Colombia,62100,41000,22000,19000,46.3
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Gimnasios & Wellness,Especializado,Colombia,63400,45600,22000,23600,51.8
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Distribuidor Ecuador,Internacional,Ecuador,58200,43100,22000,21100,49.0
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Distribuidor México,Internacional,México,62700,45100,22000,23100,51.2
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Distribuidor Honduras,Internacional,Honduras,58400,43200,22000,21200,49.1
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Distribuidor Panamá,Internacional,Panamá,60500,44800,22000,22800,50.9
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Nutramerican España,Internacional,España,74200,59400,22000,37400,63.0
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,Nutramerican USA LLC,Internacional,Estados Unidos,76500,65000,22000,43000,66.2
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Tiendas Nutramerican,Tienda propia,Colombia,199200,199200,124000,75200,37.8
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,nutramerican.com,E-commerce,Colombia,198800,198800,124000,74800,37.6
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Distribuidores,Mayorista,Colombia,236600,165600,124000,41600,25.1
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Cadenas & Farmacias,Retail,Colombia,250300,165200,124000,41200,24.9
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Gimnasios & Wellness,Especializado,Colombia,233300,168000,124000,44000,26.2
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Distribuidor Ecuador,Internacional,Ecuador,230600,170600,124000,46600,27.3
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Distribuidor México,Internacional,México,243800,175500,124000,51500,29.3
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Distribuidor Honduras,Internacional,Honduras,228500,169100,124000,45100,26.7
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Distribuidor Panamá,Internacional,Panamá,234400,173500,124000,49500,28.5
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Nutramerican España,Internacional,España,295100,236100,124000,112100,47.5
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,Nutramerican USA LLC,Internacional,Estados Unidos,303300,257800,124000,133800,51.9

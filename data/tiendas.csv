@@ -1,0 +1,9 @@
+tienda_id,tienda,ciudad,direccion,celular,lat,lon,horario_lv,horario_sab,area_m2,anio_apertura,peso_venta
+TDA-BOGN,Nutramerican Bogotá Norte,Bogotá,"Av. Carrera 19 # 108-50, San Patricio (Usaquén)",3115149103,4.694927,-74.050367,09:00–18:00,09:00–13:00,120,2020,0.185
+TDA-BOGS,Nutramerican Bogotá Kennedy,Bogotá,"Carrera 79 Sur # 41C-43, Kennedy",3115149103,4.620743,-74.160044,09:00–18:00,09:00–13:00,95,2022,0.14
+TDA-CALI,Nutramerican Cali,Cali,"Av. 6A Norte # 23N-65, Santa Mónica",3207582916,3.465442,-76.530905,09:00–18:00,09:00–13:00,140,2018,0.195
+TDA-MED,Nutramerican Medellín,Medellín,"Calle 33 # 65B-13, Conquistadores",3137449069,6.239383,-75.584091,09:00–18:00,09:00–13:00,110,2019,0.16
+TDA-BAQ,Nutramerican Barranquilla,Barranquilla,"Carrera 46 # 76-96, El Porvenir",3217483972,10.997021,-74.81074,08:00–18:00,08:00–13:00,90,2021,0.11
+TDA-BGA,Nutramerican Bucaramanga,Bucaramanga,"Carrera 35 # 54-70, Cabecera",3165271052,7.117497,-73.126816,08:00–18:00,08:00–13:00,78,2022,0.085
+TDA-PEI,Nutramerican Pereira,Pereira,"Av. 30 de Agosto # 46-145, Maraya",3165271052,4.815753,-75.717517,09:00–18:00,09:00–13:00,72,2023,0.07
+TDA-CUC,Nutramerican Cúcuta,Cúcuta,"Avenida 0 # 18-54, Barrio Blanco",3165271052,7.8793,-72.497218,08:00–18:00,08:00–13:00,68,2024,0.055

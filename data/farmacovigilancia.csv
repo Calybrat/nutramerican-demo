@@ -1,0 +1,97 @@
+reporte_id,fecha,mes,evento,severidad,sku,canal_reporte,estado,dias_respuesta
+FV-001,2025-04-27,2025-04,Parestesia por beta-alanina,Leve,NUT-POP-PK,WhatsApp,Cerrado,2
+FV-002,2025-11-11,2025-11,Molestia gastrointestinal,Leve,STK-COL,WhatsApp,Cerrado,0
+FV-003,2026-04-10,2026-04,Reacción cutánea / prurito,Moderado,MEG-SOY,Tienda física,Cerrado,4
+FV-004,2025-08-03,2025-08,Molestia gastrointestinal,Leve,STK-BUR-TAR,WhatsApp,En análisis,4
+FV-005,2025-07-14,2025-07,Molestia gastrointestinal,Leve,STK-BUR-L12,WhatsApp,Cerrado,0
+FV-006,2026-06-22,2026-06,Insomnio o taquicardia por cafeína,Moderado,STK-BUR-L12,Línea gratuita #590,Cerrado,0
+FV-007,2026-05-18,2026-05,Reacción cutánea / prurito,Moderado,NUT-RX,Tienda física,En análisis,4
+FV-008,2026-05-12,2026-05,Insomnio o taquicardia por cafeína,Moderado,RAD-MYT-24,WhatsApp,En análisis,2
+FV-009,2026-06-12,2026-06,Parestesia por beta-alanina,Leve,STK-COMBO,WhatsApp,Cerrado,1
+FV-010,2025-01-19,2025-01,Insomnio o taquicardia por cafeína,Moderado,BIP-CLA-2C,WhatsApp,Cerrado,2
+FV-011,2025-05-10,2025-05,Cefalea,Leve,ALI-CAK-VAN,Chat del sitio,Cerrado,4
+FV-012,2026-06-02,2026-06,Molestia gastrointestinal,Leve,RAD-RES-12,WhatsApp,En análisis,6
+FV-013,2025-01-09,2025-01,Cefalea,Leve,STK-BUR-L12,WhatsApp,Cerrado,1
+FV-014,2025-05-26,2025-05,Retención de líquidos,Leve,BIP-CLA-3CC,Línea gratuita #590,Cerrado,3
+FV-015,2025-05-04,2025-05,Insomnio o taquicardia por cafeína,Moderado,BIP-COM-21,WhatsApp,Cerrado,0
+FV-016,2026-02-01,2026-02,Parestesia por beta-alanina,Leve,STK-PRW,Tienda física,Cerrado,0
+FV-017,2025-05-21,2025-05,Molestia gastrointestinal,Leve,MEG-GAI-64,WhatsApp,Cerrado,2
+FV-018,2025-09-29,2025-09,Parestesia por beta-alanina,Leve,ALI-CAK-VAN,Línea gratuita #590,Cerrado,1
+FV-019,2026-06-02,2026-06,Retención de líquidos,Leve,NUT-VEG-400,Tienda física,Cerrado,3
+FV-020,2025-02-27,2025-02,Insomnio o taquicardia por cafeína,Moderado,BIP-CLA-3CA,WhatsApp,Cerrado,3
+FV-021,2026-04-06,2026-04,Parestesia por beta-alanina,Leve,BIP-CLA-3CC,WhatsApp,En análisis,4
+FV-022,2026-01-07,2026-01,Molestia gastrointestinal,Leve,ALI-CAK-CHO,Chat del sitio,En análisis,4
+FV-023,2025-09-29,2025-09,Cefalea,Leve,MEG-CRE-2,WhatsApp,Cerrado,3
+FV-024,2026-06-25,2026-06,Reacción cutánea / prurito,Moderado,ALI-PAN-TRA,WhatsApp,Cerrado,1
+FV-025,2026-07-31,2026-07,Molestia gastrointestinal,Leve,RAD-PWD-TAR,WhatsApp,Cerrado,2
+FV-026,2025-07-18,2025-07,Parestesia por beta-alanina,Leve,STK-COMBO,WhatsApp,Cerrado,0
+FV-027,2025-03-23,2025-03,Parestesia por beta-alanina,Leve,STK-CRE-TAR,WhatsApp,Cerrado,3
+FV-028,2026-05-30,2026-05,Cefalea,Leve,NUT-BAL,Chat del sitio,En análisis,1
+FV-029,2026-03-13,2026-03,Parestesia por beta-alanina,Leve,ALI-PAN-WAF,Línea gratuita #590,Cerrado,2
+FV-030,2025-02-19,2025-02,Parestesia por beta-alanina,Leve,STK-GLU,WhatsApp,Cerrado,1
+FV-031,2025-03-14,2025-03,Cefalea,Leve,BIP-LIT-24,Chat del sitio,Cerrado,3
+FV-032,2026-01-02,2026-01,Parestesia por beta-alanina,Leve,RAD-MYT-24,WhatsApp,En análisis,1
+FV-033,2025-02-06,2025-02,Parestesia por beta-alanina,Leve,MEG-CRE-2,WhatsApp,En análisis,2
+FV-034,2026-07-19,2026-07,Insomnio o taquicardia por cafeína,Moderado,STK-BUR-L24,Chat del sitio,Cerrado,2
+FV-035,2026-08-17,2026-08,Molestia gastrointestinal,Leve,NUT-VEG-400,WhatsApp,En análisis,1
+FV-036,2025-11-16,2025-11,Insomnio o taquicardia por cafeína,Moderado,NUT-SB-DIS,WhatsApp,En análisis,0
+FV-037,2025-03-30,2025-03,Cefalea,Leve,MEG-CRE-2,WhatsApp,Cerrado,1
+FV-038,2026-03-22,2026-03,Parestesia por beta-alanina,Leve,STK-PRW,Tienda física,Cerrado,2
+FV-039,2025-10-03,2025-10,Molestia gastrointestinal,Leve,BIP-CLA-2V,WhatsApp,Cerrado,0
+FV-040,2026-06-08,2026-06,Molestia gastrointestinal,Leve,MEG-CAR-COC,Chat del sitio,Cerrado,0
+FV-041,2026-07-12,2026-07,Cefalea,Leve,NUT-VEG-400,WhatsApp,Cerrado,3
+FV-042,2025-08-06,2025-08,Insomnio o taquicardia por cafeína,Moderado,MEG-GAI-64,Línea gratuita #590,Cerrado,3
+FV-043,2025-03-20,2025-03,Parestesia por beta-alanina,Leve,MEG-CRE-10,Chat del sitio,Cerrado,3
+FV-044,2025-06-15,2025-06,Parestesia por beta-alanina,Leve,MEG-SOY,WhatsApp,Cerrado,1
+FV-045,2026-07-09,2026-07,Parestesia por beta-alanina,Leve,RAD-PWD-TAR,WhatsApp,Cerrado,1
+FV-046,2025-06-24,2025-06,Molestia gastrointestinal,Leve,RAD-PWD-TAR,Tienda física,Cerrado,3
+FV-047,2025-05-25,2025-05,Molestia gastrointestinal,Leve,NUT-POP-CAJ,WhatsApp,Cerrado,1
+FV-048,2025-01-19,2025-01,Parestesia por beta-alanina,Leve,STK-BUR-TAR,Chat del sitio,En análisis,1
+FV-049,2026-08-01,2026-08,Molestia gastrointestinal,Leve,ALI-CAK-VAN,WhatsApp,Cerrado,2
+FV-050,2026-07-09,2026-07,Insomnio o taquicardia por cafeína,Moderado,MEG-CRE-10,WhatsApp,Cerrado,1
+FV-051,2025-04-22,2025-04,Cefalea,Leve,STK-CRE-TAR,Tienda física,Cerrado,5
+FV-052,2025-07-28,2025-07,Parestesia por beta-alanina,Leve,RAD-ENX,Chat del sitio,En análisis,1
+FV-053,2026-01-11,2026-01,Molestia gastrointestinal,Leve,NUT-SB-DIS,Línea gratuita #590,Cerrado,1
+FV-054,2025-05-20,2025-05,Parestesia por beta-alanina,Leve,MEG-NIT-FR,WhatsApp,Cerrado,0
+FV-055,2025-07-09,2025-07,Parestesia por beta-alanina,Leve,NUT-ZOL,WhatsApp,Cerrado,2
+FV-056,2025-05-29,2025-05,Reacción cutánea / prurito,Moderado,STK-COMBO,WhatsApp,Cerrado,1
+FV-057,2025-02-04,2025-02,Molestia gastrointestinal,Leve,MEG-GAI-3,Chat del sitio,Cerrado,0
+FV-058,2025-07-30,2025-07,Parestesia por beta-alanina,Leve,MEG-CAR-COC,Tienda física,En análisis,1
+FV-059,2025-02-16,2025-02,Parestesia por beta-alanina,Leve,ALI-PAN-WAF,Chat del sitio,Cerrado,1
+FV-060,2026-07-16,2026-07,Parestesia por beta-alanina,Leve,RAD-RES-4,Chat del sitio,Cerrado,0
+FV-061,2025-11-28,2025-11,Cefalea,Leve,STK-PRW,WhatsApp,Cerrado,1
+FV-062,2026-07-10,2026-07,Reacción cutánea / prurito,Moderado,BIP-CLA-3CC,WhatsApp,En análisis,2
+FV-063,2026-06-18,2026-06,Molestia gastrointestinal,Leve,BIP-CLA-2N,Tienda física,En análisis,2
+FV-064,2025-10-17,2025-10,Molestia gastrointestinal,Leve,NUT-C,WhatsApp,Cerrado,2
+FV-065,2025-08-31,2025-08,Molestia gastrointestinal,Leve,MEG-CRE-2,WhatsApp,Cerrado,2
+FV-066,2026-05-03,2026-05,Insomnio o taquicardia por cafeína,Moderado,MEG-SOY,Chat del sitio,Cerrado,0
+FV-067,2026-08-18,2026-08,Molestia gastrointestinal,Leve,RAD-ENX,WhatsApp,Cerrado,0
+FV-068,2025-09-05,2025-09,Retención de líquidos,Leve,STK-PRW,WhatsApp,Cerrado,3
+FV-069,2025-08-14,2025-08,Molestia gastrointestinal,Leve,BIP-LIT-24,Línea gratuita #590,Cerrado,0
+FV-070,2025-12-09,2025-12,Retención de líquidos,Leve,RAD-RES-4,Chat del sitio,Cerrado,3
+FV-071,2025-06-10,2025-06,Molestia gastrointestinal,Leve,RAD-MYT-24,Línea gratuita #590,Cerrado,0
+FV-072,2025-08-17,2025-08,Cefalea,Leve,STK-BUR-L24,WhatsApp,Cerrado,2
+FV-073,2025-12-17,2025-12,Molestia gastrointestinal,Leve,BIP-LIT-24,WhatsApp,Cerrado,3
+FV-074,2025-10-26,2025-10,Molestia gastrointestinal,Leve,STK-CRE-SAC,Chat del sitio,Cerrado,0
+FV-075,2025-07-22,2025-07,Retención de líquidos,Leve,STK-BUR-TAR,Tienda física,En análisis,1
+FV-076,2026-02-05,2026-02,Parestesia por beta-alanina,Leve,ALI-PAN-WAF,WhatsApp,Cerrado,3
+FV-077,2026-06-19,2026-06,Parestesia por beta-alanina,Leve,NUT-POP-CAJ,Tienda física,Cerrado,2
+FV-078,2025-05-12,2025-05,Insomnio o taquicardia por cafeína,Moderado,STK-BUR-L12,Línea gratuita #590,Cerrado,0
+FV-079,2026-03-15,2026-03,Molestia gastrointestinal,Leve,BIP-CLA-3CA,WhatsApp,Cerrado,1
+FV-080,2025-01-08,2025-01,Parestesia por beta-alanina,Leve,BIP-CLA-2C,Chat del sitio,Cerrado,1
+FV-081,2025-02-08,2025-02,Molestia gastrointestinal,Leve,ALI-CAK-CHO,Tienda física,En análisis,1
+FV-082,2026-05-01,2026-05,Insomnio o taquicardia por cafeína,Moderado,RAD-PWD-TAR,Chat del sitio,Cerrado,2
+FV-083,2026-03-26,2026-03,Molestia gastrointestinal,Leve,RAD-PWD,Tienda física,Cerrado,1
+FV-084,2025-05-25,2025-05,Parestesia por beta-alanina,Leve,MEG-CRE-2,WhatsApp,Cerrado,2
+FV-085,2026-02-02,2026-02,Insomnio o taquicardia por cafeína,Moderado,STK-BUR-L12,WhatsApp,Cerrado,0
+FV-086,2025-08-05,2025-08,Insomnio o taquicardia por cafeína,Moderado,BIP-CLA-09V,Tienda física,Cerrado,3
+FV-087,2025-11-21,2025-11,Retención de líquidos,Leve,RAD-PWD,WhatsApp,En análisis,1
+FV-088,2025-06-13,2025-06,Reacción cutánea / prurito,Moderado,BIP-CLA-DIS,WhatsApp,Cerrado,1
+FV-089,2026-01-08,2026-01,Molestia gastrointestinal,Leve,RAD-RES-4,WhatsApp,Cerrado,2
+FV-090,2026-03-27,2026-03,Molestia gastrointestinal,Leve,STK-PRW,Línea gratuita #590,Cerrado,3
+FV-091,2025-04-25,2025-04,Parestesia por beta-alanina,Leve,BIP-CLA-3CA,Chat del sitio,Cerrado,3
+FV-092,2026-08-10,2026-08,Molestia gastrointestinal,Leve,BIP-LIT-24,Línea gratuita #590,En análisis,4
+FV-093,2026-01-09,2026-01,Insomnio o taquicardia por cafeína,Moderado,NUT-SB-DIS,WhatsApp,Cerrado,1
+FV-094,2025-06-02,2025-06,Insomnio o taquicardia por cafeína,Moderado,RAD-MYT-24,WhatsApp,Cerrado,4
+FV-095,2025-03-26,2025-03,Molestia gastrointestinal,Leve,RAD-PWD,Tienda física,En análisis,1
+FV-096,2026-03-21,2026-03,Parestesia por beta-alanina,Leve,MEG-CRE-2,Línea gratuita #590,En análisis,2

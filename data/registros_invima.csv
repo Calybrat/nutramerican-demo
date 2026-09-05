@@ -1,0 +1,52 @@
+sku,producto,marca,categoria,registro_invima,tipo,fecha_expedicion,fecha_vencimiento,dias_para_vencer,estado,fuente
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,RSA-0072443-2017,Registro sanitario,2017-05-15,2027-02-11,164,Por vencer,Simulado
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,RSA-0024245-2017,Registro sanitario,2017-07-15,2027-11-27,453,Vigente,Simulado
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,RSA-0053664-2018,Registro sanitario,2018-12-15,2028-04-07,585,Vigente,Simulado
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,RSA-0090609-2018,Registro sanitario,2018-11-15,2028-06-25,664,Vigente,Simulado
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,RSA-0095580-2018,Registro sanitario,2018-12-15,2028-07-07,676,Vigente,Simulado
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,RSA-0049199-2018,Registro sanitario,2018-10-15,2028-12-01,823,Vigente,Simulado
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,RSA-0007428-2019,Registro sanitario,2019-07-15,2029-01-01,854,Vigente,Publicado por la compañía
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,RSA-0034625-2019,Registro sanitario,2019-03-15,2029-01-17,870,Vigente,Simulado
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,RSA-0067077-2019,Registro sanitario,2019-01-15,2029-03-12,924,Vigente,Simulado
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,RSA-0088537-2019,Registro sanitario,2019-05-15,2029-05-24,997,Vigente,Simulado
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,RSA-0007428-2019,Registro sanitario,2019-01-15,2029-07-02,1036,Vigente,Publicado por la compañía
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,RSA-0050165-2019,Registro sanitario,2019-12-15,2029-07-19,1053,Vigente,Simulado
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,RSA-0005780-2019,Registro sanitario,2019-03-15,2029-08-14,1079,Vigente,Simulado
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,RSA-0053247-2019,Registro sanitario,2019-04-15,2029-09-02,1098,Vigente,Simulado
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,RSA-0044771-2019,Registro sanitario,2019-08-15,2029-09-11,1107,Vigente,Simulado
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,RSA-0054569-2019,Registro sanitario,2019-10-15,2029-10-10,1136,Vigente,Simulado
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,RSA-0007428-2019,Registro sanitario,2019-06-15,2029-11-09,1166,Vigente,Publicado por la compañía
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,RSA-0007428-2019,Registro sanitario,2019-12-15,2029-12-16,1203,Vigente,Publicado por la compañía
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,RSA-0097214-2020,Registro sanitario,2020-02-15,2030-02-16,1265,Vigente,Simulado
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,RSA-0018135-2020,Registro sanitario,2020-02-15,2030-04-08,1316,Vigente,Simulado
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,RSA-0076281-2020,Registro sanitario,2020-12-15,2030-05-12,1350,Vigente,Simulado
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,RSA-0071003-2020,Registro sanitario,2020-04-15,2030-07-13,1412,Vigente,Simulado
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,RSA-0031771-2020,Registro sanitario,2020-04-15,2030-08-25,1455,Vigente,Simulado
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,RSA-0039842-2021,Registro sanitario,2021-04-15,2031-01-05,1588,Vigente,Simulado
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,RSA-0008460-2021,Registro sanitario,2021-05-15,2031-03-06,1648,Vigente,Simulado
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,RSA-0016787-2021,Registro sanitario,2021-10-15,2031-10-16,1872,Vigente,Simulado
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,RSA-0098703-2021,Registro sanitario,2021-03-15,2031-11-03,1890,Vigente,Simulado
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,RSA-0058305-2021,Registro sanitario,2021-05-15,2031-12-13,1930,Vigente,Simulado
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,NSA-0072260-2022,Notificación sanitaria,2022-09-15,2032-03-25,2033,Vigente,Simulado
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,NSA-0088689-2022,Notificación sanitaria,2022-05-15,2032-04-27,2066,Vigente,Simulado
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,NSA-0066042-2022,Notificación sanitaria,2022-11-15,2032-06-23,2123,Vigente,Simulado
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,NSA-0059623-2022,Notificación sanitaria,2022-08-15,2032-06-24,2124,Vigente,Simulado
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,NSA-0032644-2023,Notificación sanitaria,2023-03-15,2033-03-15,2388,Vigente,Simulado
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,NSA-0055730-2023,Notificación sanitaria,2023-01-15,2033-05-04,2438,Vigente,Simulado
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,NSA-0043543-2023,Notificación sanitaria,2023-05-15,2033-05-24,2458,Vigente,Simulado
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,NSA-0091508-2023,Notificación sanitaria,2023-03-15,2033-07-22,2517,Vigente,Simulado
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,NSA-0046188-2023,Notificación sanitaria,2023-11-15,2033-09-01,2558,Vigente,Simulado
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,NSA-0085318-2023,Notificación sanitaria,2023-02-15,2033-09-09,2566,Vigente,Simulado
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,NSA-0093766-2023,Notificación sanitaria,2023-09-15,2033-10-18,2605,Vigente,Simulado
+RAD-ENX,Energy X,Radical,Energía y recuperación,NSA-0056357-2024,Notificación sanitaria,2024-01-15,2034-03-06,2744,Vigente,Simulado
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,NSA-0028753-2024,Notificación sanitaria,2024-07-15,2034-04-06,2775,Vigente,Simulado
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,NSA-0015613-2024,Notificación sanitaria,2024-04-15,2034-05-20,2819,Vigente,Publicado por la compañía
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,NSA-0015613-2024,Notificación sanitaria,2024-04-15,2034-06-01,2831,Vigente,Publicado por la compañía
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,NSA-0052904-2024,Notificación sanitaria,2024-04-15,2034-07-12,2872,Vigente,Simulado
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,NSA-0039114-2024,Notificación sanitaria,2024-11-15,2034-09-07,2929,Vigente,Simulado
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,NSA-0043898-2024,Notificación sanitaria,2024-04-15,2034-09-09,2931,Vigente,Simulado
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,NSA-0008860-2024,Notificación sanitaria,2024-07-15,2034-09-11,2933,Vigente,Simulado
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,NSA-0026806-2024,Notificación sanitaria,2024-05-15,2034-11-14,2997,Vigente,Simulado
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,NSA-0011434-2024,Notificación sanitaria,2024-06-15,2034-12-01,3014,Vigente,Simulado
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,NSA-0029185-2025,Notificación sanitaria,2025-04-15,2035-07-24,3249,Vigente,Simulado
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,NSA-0085968-2025,Notificación sanitaria,2025-01-15,2035-08-08,3264,Vigente,Simulado

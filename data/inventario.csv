@@ -1,0 +1,261 @@
+sku,producto,marca,categoria,bodega_id,bodega,ciudad,tipo_bodega,stock_unidades,demanda_diaria,dias_cobertura,valor_inventario_cop,estado,lote_mas_antiguo_dias,proximo_a_vencer
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1226,38.19,32.1,58357600,Normal,35,False
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,730,23.64,30.9,34748000,Normal,199,False
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,765,12.73,60.1,36414000,Exceso,3,False
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,258,7.27,35.5,12280800,Normal,36,False
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,45,9.09,5.0,2142000,Crítico,153,False
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,662,35.68,18.6,62625200,Bajo,119,False
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,1323,22.09,59.9,125155800,Normal,36,False
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,538,11.89,45.3,50894800,Normal,110,False
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,234,6.8,34.5,22136400,Normal,13,False
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,39,8.5,4.7,3689400,Crítico,94,False
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1371,35.08,39.1,129696600,Normal,96,False
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,839,21.72,38.6,79369400,Normal,155,False
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,167,11.69,14.4,15798200,Bajo,165,False
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,226,6.68,33.8,21379600,Normal,145,False
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,306,8.35,36.7,28947600,Normal,118,False
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,270,20.02,13.5,24867000,Bajo,100,False
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,462,12.4,37.3,42550200,Normal,205,False
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,32,6.67,4.9,2947200,Crítico,115,False
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,91,3.81,23.9,8381100,Normal,109,False
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,133,4.77,28.1,12249300,Normal,122,False
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,64,32.14,2.0,3494400,Crítico,169,False
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,39,19.9,2.0,2129400,Crítico,43,False
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,119,10.71,11.1,6497400,Crítico,124,False
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,193,6.12,31.5,10537800,Normal,100,False
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,329,7.65,43.1,17963400,Normal,200,False
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,320,11.11,28.9,44224000,Normal,69,False
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,46,6.88,6.7,6357200,Crítico,26,False
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,100,3.7,27.0,13820000,Normal,3,False
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,103,2.12,49.0,14234600,Normal,4,False
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,138,2.64,52.3,19071600,Normal,160,False
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,126,15.17,8.4,17413200,Crítico,114,False
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,411,9.39,43.9,56800200,Normal,16,False
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,231,5.06,45.8,31924200,Normal,119,False
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,43,2.89,15.2,5942600,Bajo,105,False
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,197,3.61,54.8,27225400,Normal,163,False
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,437,17.41,25.1,60393400,Normal,71,False
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,236,10.78,21.9,32615200,Bajo,143,False
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,169,5.8,29.1,23355800,Normal,29,False
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,124,3.32,37.6,17136800,Normal,102,False
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,170,4.14,41.2,23494000,Normal,29,False
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1741,25.27,68.9,169051100,Exceso,34,False
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,129,15.65,8.3,12525900,Crítico,151,False
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,363,8.42,43.2,35247300,Normal,102,False
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,194,4.81,40.5,18837400,Normal,142,False
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,280,6.02,46.5,27188000,Normal,23,False
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1006,19.61,51.3,95167600,Normal,147,False
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,614,12.14,50.6,58084400,Normal,232,False
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,333,6.54,51.1,31501800,Normal,148,False
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,3PL-MED,3PL MELONN Medellín,Medellín,3PL,70,3.74,19.0,6622000,Bajo,140,False
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,253,4.67,54.2,23933800,Normal,183,False
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,99,6.93,14.3,10107900,Bajo,124,False
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,210,4.29,49.1,21441000,Normal,226,False
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,110,2.31,47.8,11231000,Normal,68,False
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,65,1.32,49.4,6636500,Normal,88,False
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,65,1.65,39.9,6636500,Normal,88,False
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,849,36.68,23.1,24451200,Normal,152,False
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,526,22.71,23.2,15148800,Normal,142,False
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,611,12.23,50.0,17596800,Normal,148,False
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,162,6.99,23.3,4665600,Normal,186,False
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,345,8.73,39.6,9936000,Normal,147,False
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,459,11.02,41.7,46818000,Normal,92,False
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,284,6.82,41.7,28968000,Normal,105,False
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,164,3.67,44.9,16728000,Normal,89,False
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,81,2.1,38.9,8262000,Normal,146,False
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,97,2.62,37.0,9894000,Normal,185,False
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,834,14.51,57.5,41199600,Normal,171,False
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,319,8.98,35.6,15758600,Normal,58,False
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,147,4.84,30.5,7261800,Normal,109,False
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,50,2.76,18.2,2470000,Bajo,80,False
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,109,3.45,31.7,5384600,Normal,52,False
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,15,6.12,2.5,1452000,Crítico,163,False
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,233,3.79,61.7,22554400,Exceso,9,False
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,27,2.04,13.6,2613600,Bajo,3,False
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,22,1.17,19.0,2129600,Bajo,36,False
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,40,1.46,27.6,3872000,Normal,61,False
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1800,35.47,50.7,56160000,Normal,3,False
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,1012,21.96,46.1,31574400,Normal,16,False
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,801,11.82,67.8,24991200,Exceso,3,False
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,268,6.76,39.7,8361600,Normal,48,False
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,178,8.45,21.2,5553600,Bajo,98,False
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,454,39.34,11.6,14164800,Crítico,133,False
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,797,24.36,32.7,24866400,Normal,46,False
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,446,13.11,34.0,13915200,Normal,3,False
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,486,7.49,65.0,15163200,Exceso,196,False
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,168,9.37,18.0,5241600,Bajo,156,False
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,738,28.59,25.8,25903800,Normal,30,False
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,631,17.7,35.7,22148100,Normal,111,False
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,587,9.53,61.7,20603700,Exceso,156,False
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,173,5.45,31.9,6072300,Normal,132,False
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,280,6.81,41.2,9828000,Normal,24,False
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,740,37.23,19.9,18130000,Bajo,118,False
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,151,23.05,6.6,3699500,Crítico,6,False
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,504,12.41,40.7,12348000,Normal,43,False
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,319,7.09,45.1,7815500,Normal,114,False
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,111,8.86,12.6,2719500,Bajo,53,False
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,2031,30.72,66.1,106627500,Exceso,93,False
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,54,19.01,2.8,2835000,Crítico,17,False
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,20,10.24,2.0,1050000,Crítico,46,False
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,153,5.85,26.2,8032500,Normal,91,False
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,304,7.31,41.6,15960000,Normal,41,False
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,682,18.21,37.5,34918400,Normal,61,False
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,259,11.27,23.0,13260800,Normal,112,False
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,229,6.07,37.8,11724800,Normal,91,False
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,7,3.47,2.1,358400,Crítico,36,False
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,171,4.34,39.6,8755200,Normal,88,False
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,318,28.26,11.3,15136800,Crítico,56,False
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,465,17.5,26.6,22134000,Normal,3,False
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,106,9.42,11.3,5045600,Crítico,67,False
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,3PL-MED,3PL MELONN Medellín,Medellín,3PL,69,5.38,13.0,3284400,Bajo,149,False
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,330,6.73,49.1,15708000,Normal,12,False
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,310,8.08,38.4,32922000,Normal,133,False
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,218,5.0,43.7,23151600,Normal,78,False
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,23,2.69,8.7,2442600,Crítico,26,False
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,3PL-MED,3PL MELONN Medellín,Medellín,3PL,60,1.54,39.3,6372000,Normal,130,False
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,78,1.92,41.0,8283600,Normal,120,False
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,595,8.28,71.9,33796000,Exceso,70,False
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,276,5.12,54.0,15676800,Normal,69,False
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,86,2.76,31.3,4884800,Normal,109,False
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,3PL-MED,3PL MELONN Medellín,Medellín,3PL,25,1.58,15.9,1420000,Bajo,35,False
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,122,1.97,62.3,6929600,Exceso,61,False
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,505,13.72,36.8,19190000,Normal,76,False
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,296,8.49,34.9,11248000,Normal,73,False
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,41,4.57,9.1,1558000,Crítico,71,False
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,74,2.61,28.6,2812000,Normal,135,False
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,9,3.27,2.8,342000,Crítico,115,False
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,731,12.81,57.1,20175600,Normal,201,False
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,208,7.93,26.2,5740800,Normal,209,False
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,236,4.27,55.3,6513600,Normal,6,False
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,53,2.44,22.0,1462800,Bajo,22,False
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,140,3.05,46.2,3864000,Normal,133,False
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1349,29.04,46.5,31566600,Normal,75,False
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,845,17.97,47.0,19773000,Normal,79,False
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,418,9.68,43.2,9781200,Normal,98,False
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,213,5.53,38.7,4984200,Normal,150,False
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,280,6.91,40.6,6552000,Normal,113,False
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,259,5.96,43.5,40300400,Normal,91,False
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,128,3.69,34.8,19916800,Normal,194,False
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,77,1.99,38.9,11981200,Normal,104,False
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,3PL-MED,3PL MELONN Medellín,Medellín,3PL,62,1.14,54.7,9647200,Normal,3,False
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,92,1.42,65.4,14315200,Exceso,162,False
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1637,30.8,53.2,45181200,Normal,92,False
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,1154,19.06,60.5,31850400,Exceso,3,False
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,482,10.27,47.0,13303200,Normal,141,False
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,507,5.87,86.5,13993200,Exceso,86,False
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,82,7.33,11.2,2263200,Crítico,73,False
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,552,34.34,16.1,16836000,Bajo,123,False
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,689,21.26,32.4,21014500,Normal,102,False
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,323,11.45,28.3,9851500,Normal,23,False
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,234,6.54,35.8,7137000,Normal,59,False
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,279,8.18,34.2,8509500,Normal,131,False
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1353,31.09,43.5,36936900,Normal,225,False
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,307,19.25,16.0,8381100,Bajo,167,False
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,522,10.36,50.4,14250600,Normal,62,False
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,56,5.92,9.5,1528800,Crítico,75,False
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,146,7.4,19.8,3985800,Bajo,83,False
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,683,34.42,19.9,10518200,Bajo,123,False
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,712,21.31,33.4,10964800,Normal,66,False
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,208,11.47,18.2,3203200,Bajo,160,False
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,318,6.56,48.5,4897200,Normal,26,False
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,132,8.2,16.1,2032800,Bajo,3,False
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1215,29.95,40.6,16402500,Normal,134,False
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,604,18.54,32.6,8154000,Normal,89,False
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,138,9.98,13.8,1863000,Bajo,78,False
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,122,5.7,21.5,1647000,Bajo,63,False
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,122,7.13,17.1,1647000,Bajo,110,False
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,984,19.57,50.3,21156000,Normal,84,False
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,292,12.12,24.1,6278000,Normal,23,False
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,382,6.52,58.7,8213000,Normal,3,False
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,282,3.73,75.7,6063000,Exceso,78,False
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,67,4.66,14.5,1440500,Bajo,122,False
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1160,22.11,52.5,24824000,Normal,221,False
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,290,13.68,21.2,6206000,Bajo,10,False
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,206,7.37,28.0,4408400,Normal,131,False
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,131,4.21,31.2,2803400,Normal,147,False
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,129,5.26,24.6,2760600,Normal,171,False
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,507,34.6,14.7,4613700,Bajo,20,False
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,467,21.42,21.8,4249700,Bajo,70,False
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,524,11.53,45.4,4768400,Normal,206,False
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,317,6.59,48.2,2884700,Normal,62,False
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,426,8.24,51.8,3876600,Normal,37,False
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1200,27.21,44.1,19080000,Normal,153,False
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,638,16.84,37.9,10144200,Normal,109,False
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,35,9.07,3.9,556500,Crítico,108,False
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,3PL-MED,3PL MELONN Medellín,Medellín,3PL,379,5.18,73.2,6026100,Exceso,3,False
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,219,6.48,33.8,3482100,Normal,138,False
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,969,17.36,55.9,44186400,Normal,156,False
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,403,10.75,37.5,18376800,Normal,132,False
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,91,5.79,15.8,4149600,Bajo,106,False
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,142,3.31,43.0,6475200,Normal,106,False
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,129,4.13,31.4,5882400,Normal,67,False
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1044,24.74,42.2,32781600,Normal,53,False
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,36,15.31,2.4,1130400,Crítico,65,False
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,277,8.25,33.6,8697800,Normal,3,False
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,197,4.71,41.9,6185800,Normal,145,False
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,116,5.89,19.8,3642400,Bajo,193,False
+RAD-ENX,Energy X,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1632,55.43,29.5,25459200,Normal,32,False
+RAD-ENX,Energy X,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,791,34.31,23.1,12339600,Normal,189,False
+RAD-ENX,Energy X,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,173,18.48,9.4,2698800,Crítico,104,False
+RAD-ENX,Energy X,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,501,10.56,47.5,7815600,Normal,49,False
+RAD-ENX,Energy X,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,575,13.2,43.6,8970000,Normal,26,False
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,131,5.84,22.5,14161100,Normal,134,False
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,122,3.61,33.8,13188200,Normal,70,False
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,103,1.95,53.4,11134300,Normal,33,False
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,56,1.11,50.9,6053600,Normal,45,False
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,34,1.39,25.1,3675400,Normal,38,False
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,274,10.18,27.0,15837200,Normal,110,False
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,216,6.3,34.4,12484800,Normal,71,False
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,116,3.39,34.4,6704800,Normal,68,False
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,109,1.94,56.4,6300200,Normal,197,False
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,64,2.42,26.6,3699200,Normal,47,False
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,374,6.72,55.8,39008200,Normal,194,False
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,201,4.16,48.5,20964300,Normal,161,False
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,54,2.24,24.4,5632200,Normal,70,False
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,42,1.28,33.5,4380600,Normal,176,False
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,62,1.6,39.2,6466600,Normal,101,False
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,445,10.01,44.6,24831000,Normal,18,False
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,272,6.19,44.0,15177600,Normal,85,False
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,176,3.34,52.9,9820800,Normal,158,False
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,55,1.91,29.2,3069000,Normal,97,False
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,103,2.38,43.6,5747400,Normal,18,False
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,800,27.0,29.7,13920000,Normal,61,False
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,710,16.71,42.5,12354000,Normal,217,False
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,23,9.0,2.6,400200,Crítico,129,False
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,3PL-MED,3PL MELONN Medellín,Medellín,3PL,127,5.14,24.8,2209800,Normal,118,False
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,453,6.43,70.5,7882200,Exceso,3,False
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,553,13.58,40.7,46507300,Normal,82,False
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,126,8.4,15.1,10596600,Bajo,82,False
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,71,4.53,15.9,5971100,Bajo,80,False
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,40,2.59,15.8,3364000,Bajo,128,False
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,132,3.23,40.9,11101200,Normal,225,False
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,502,14.24,35.3,42218200,Normal,158,False
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,227,8.82,25.8,19090700,Normal,114,False
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,194,4.75,41.1,16315400,Normal,159,False
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,111,2.71,41.1,9335100,Normal,63,False
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,104,3.39,30.7,8746400,Normal,88,False
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,911,23.46,38.9,30700700,Normal,84,False
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,759,14.52,52.3,25578300,Normal,46,False
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,334,7.82,42.8,11255800,Normal,169,False
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,72,4.47,16.2,2426400,Bajo,75,False
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,176,5.59,31.6,5931200,Normal,41,False
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1037,26.99,38.4,34946900,Normal,144,False
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,327,16.71,19.6,11019900,Bajo,44,False
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,364,9.0,40.5,12266800,Normal,181,False
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,99,5.14,19.3,3336300,Bajo,141,False
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,156,6.43,24.4,5257200,Normal,111,False
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,50,25.21,2.0,1320000,Crítico,104,False
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,1140,15.61,73.1,30096000,Exceso,56,False
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,391,8.4,46.6,10322400,Normal,21,False
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,252,4.8,52.6,6652800,Normal,61,False
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,81,6.0,13.6,2138400,Bajo,131,False
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,1729,35.63,48.5,38038000,Normal,168,False
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,550,22.06,25.0,12100000,Normal,33,False
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,390,11.88,32.9,8580000,Normal,3,False
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,3PL-MED,3PL MELONN Medellín,Medellín,3PL,269,6.79,39.8,5918000,Normal,166,False
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,22,8.48,2.6,484000,Crítico,166,False
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,BOD-PAL,Planta Palmira · Cantarrana,Palmira,Planta,17,0.72,24.3,2108000,Normal,208,False
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,BOD-YUM,CD Yumbo · ELITENUT bodega C-11,Yumbo,Centro dist.,14,0.44,32.7,1736000,Normal,127,False
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,3PL-BOG,3PL MELONN Bogotá,Bogotá,3PL,4,0.24,17.9,496000,Bajo,80,False
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,3PL-MED,3PL MELONN Medellín,Medellín,3PL,8,0.14,58.9,992000,Normal,28,False
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,BOD-TDA,Tiendas Nutramerican (8),Nacional,Tienda,3,0.17,22.4,372000,Normal,64,False

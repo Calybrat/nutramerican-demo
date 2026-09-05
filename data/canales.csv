@@ -1,0 +1,13 @@
+canal,tipo_canal,pais,factor_pvp,margen_canal,plazo_pago_dias,peso_mix
+Tiendas Nutramerican,Tienda propia,Colombia,1.0,0.0,0,0.225
+nutramerican.com,E-commerce,Colombia,1.0,0.0,0,0.14
+Distribuidores,Mayorista,Colombia,1.18,0.3,45,0.235
+Cadenas & Farmacias,Retail,Colombia,1.24,0.34,75,0.14
+Gimnasios & Wellness,Especializado,Colombia,1.2,0.28,45,0.06
+Maquila & Marca Propia,Maquila,Colombia,0.62,0.0,60,0.095
+Distribuidor Ecuador,Internacional,Ecuador,1.16,0.26,60,0.03
+Distribuidor México,Internacional,México,1.22,0.28,60,0.025
+Distribuidor Honduras,Internacional,Honduras,1.14,0.26,60,0.022
+Distribuidor Panamá,Internacional,Panamá,1.18,0.26,60,0.012
+Nutramerican España,Internacional,España,1.45,0.2,45,0.008
+Nutramerican USA LLC,Internacional,Estados Unidos,1.52,0.15,30,0.008

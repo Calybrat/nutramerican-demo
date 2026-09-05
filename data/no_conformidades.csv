@@ -1,0 +1,75 @@
+nc_id,fecha_deteccion,mes,clausula,severidad,origen,estado,dias_cierre,vencida
+NC-001,2025-01-30,2025-01,Capacitación del personal,Baja,Auditoría de certificación,Cerrada,25.0,False
+NC-002,2026-06-05,2026-06,Cadena de frío de insumos,Media,Reporte de planta,Cerrada,10.0,False
+NC-003,2026-05-04,2026-05,Limpieza y sanitización,Media,Inspección INVIMA,Cerrada,37.0,False
+NC-004,2025-10-16,2025-10,Control de alérgenos,Alta,Reporte de planta,Abierta,,True
+NC-005,2025-09-18,2025-09,Trazabilidad de lote,Alta,Reporte de planta,Cerrada,25.0,False
+NC-006,2025-06-18,2025-06,Control de proveedores,Media,Auditoría interna,Cerrada,37.0,False
+NC-007,2025-04-04,2025-04,Etiquetado y rotulado,Alta,Auditoría interna,Cerrada,26.0,False
+NC-008,2025-05-31,2025-05,Control de proveedores,Media,Reporte de planta,Abierta,,True
+NC-009,2026-01-08,2026-01,Capacitación del personal,Baja,Auditoría de certificación,Cerrada,29.0,False
+NC-010,2025-03-30,2025-03,Control de plagas,Alta,Auditoría interna,Cerrada,2.0,False
+NC-011,2026-03-16,2026-03,Control de proveedores,Media,Reporte de planta,Abierta,,True
+NC-012,2025-10-06,2025-10,Documentación de registros,Baja,Auditoría interna,Cerrada,10.0,False
+NC-013,2025-04-15,2025-04,Control de plagas,Alta,Reporte de planta,Cerrada,20.0,False
+NC-014,2026-06-08,2026-06,Control de proveedores,Media,Auditoría de certificación,Cerrada,26.0,False
+NC-015,2026-05-18,2026-05,Capacitación del personal,Baja,Inspección INVIMA,Cerrada,32.0,False
+NC-016,2026-01-12,2026-01,Control de alérgenos,Alta,Reporte de planta,Cerrada,15.0,False
+NC-017,2026-01-13,2026-01,Control de alérgenos,Alta,Reporte de planta,Cerrada,21.0,False
+NC-018,2025-01-21,2025-01,Control de plagas,Alta,Auditoría interna,Cerrada,25.0,False
+NC-019,2026-01-18,2026-01,Capacitación del personal,Baja,Reporte de planta,Cerrada,30.0,False
+NC-020,2025-12-09,2025-12,Trazabilidad de lote,Alta,Queja de cliente,Cerrada,32.0,False
+NC-021,2025-03-06,2025-03,Control de proveedores,Media,Reporte de planta,Abierta,,True
+NC-022,2026-01-26,2026-01,Control de proveedores,Media,Auditoría interna,Cerrada,2.0,False
+NC-023,2025-10-12,2025-10,Cadena de frío de insumos,Media,Auditoría de certificación,Abierta,,True
+NC-024,2026-02-20,2026-02,Control de proveedores,Media,Auditoría interna,Cerrada,23.0,False
+NC-025,2025-06-03,2025-06,Trazabilidad de lote,Alta,Reporte de planta,Abierta,,True
+NC-026,2025-12-11,2025-12,Etiquetado y rotulado,Alta,Reporte de planta,Cerrada,12.0,False
+NC-027,2025-05-30,2025-05,Control de alérgenos,Alta,Auditoría de certificación,Abierta,,True
+NC-028,2025-03-26,2025-03,Control de proveedores,Media,Auditoría interna,Cerrada,28.0,False
+NC-029,2025-08-07,2025-08,Capacitación del personal,Baja,Reporte de planta,Abierta,,True
+NC-030,2026-04-14,2026-04,Documentación de registros,Baja,Reporte de planta,Abierta,,True
+NC-031,2025-05-18,2025-05,Documentación de registros,Baja,Auditoría de certificación,Abierta,,True
+NC-032,2025-11-06,2025-11,Control de plagas,Alta,Reporte de planta,Cerrada,38.0,False
+NC-033,2026-05-21,2026-05,Limpieza y sanitización,Media,Auditoría de certificación,Cerrada,9.0,False
+NC-034,2025-07-01,2025-07,Etiquetado y rotulado,Alta,Reporte de planta,Abierta,,True
+NC-035,2026-04-28,2026-04,Control de alérgenos,Alta,Reporte de planta,Cerrada,26.0,False
+NC-036,2025-07-24,2025-07,Calibración de equipos,Media,Reporte de planta,Cerrada,28.0,False
+NC-037,2025-06-17,2025-06,Control de alérgenos,Alta,Auditoría de certificación,Cerrada,23.0,False
+NC-038,2025-07-06,2025-07,Limpieza y sanitización,Media,Reporte de planta,Cerrada,12.0,False
+NC-039,2025-11-03,2025-11,Control de plagas,Alta,Reporte de planta,Cerrada,5.0,False
+NC-040,2025-03-26,2025-03,Calibración de equipos,Media,Auditoría interna,Abierta,,True
+NC-041,2025-08-07,2025-08,Trazabilidad de lote,Alta,Reporte de planta,Cerrada,21.0,False
+NC-042,2025-02-13,2025-02,Control de proveedores,Media,Auditoría de certificación,Abierta,,True
+NC-043,2026-03-29,2026-03,Calibración de equipos,Media,Auditoría interna,Cerrada,36.0,False
+NC-044,2025-11-11,2025-11,Limpieza y sanitización,Media,Auditoría de certificación,Cerrada,18.0,False
+NC-045,2025-06-11,2025-06,Control de plagas,Alta,Reporte de planta,Cerrada,22.0,False
+NC-046,2026-05-07,2026-05,Control de alérgenos,Alta,Auditoría interna,Cerrada,29.0,False
+NC-047,2025-09-06,2025-09,Capacitación del personal,Baja,Reporte de planta,Cerrada,17.0,False
+NC-048,2025-10-23,2025-10,Documentación de registros,Baja,Reporte de planta,Cerrada,14.0,False
+NC-049,2025-04-09,2025-04,Etiquetado y rotulado,Alta,Auditoría interna,Cerrada,25.0,False
+NC-050,2025-04-25,2025-04,Control de proveedores,Media,Auditoría interna,Cerrada,27.0,False
+NC-051,2026-05-05,2026-05,Trazabilidad de lote,Alta,Reporte de planta,Cerrada,35.0,False
+NC-052,2026-03-16,2026-03,Control de proveedores,Media,Auditoría interna,Cerrada,19.0,False
+NC-053,2025-05-06,2025-05,Trazabilidad de lote,Alta,Inspección INVIMA,Cerrada,16.0,False
+NC-054,2025-09-16,2025-09,Trazabilidad de lote,Alta,Auditoría interna,Cerrada,21.0,False
+NC-055,2025-10-01,2025-10,Cadena de frío de insumos,Media,Inspección INVIMA,Cerrada,20.0,False
+NC-056,2026-02-11,2026-02,Cadena de frío de insumos,Media,Auditoría interna,Cerrada,12.0,False
+NC-057,2026-08-30,2026-08,Control de alérgenos,Alta,Auditoría de certificación,Cerrada,23.0,False
+NC-058,2025-09-09,2025-09,Etiquetado y rotulado,Alta,Reporte de planta,Cerrada,10.0,False
+NC-059,2025-11-10,2025-11,Calibración de equipos,Media,Reporte de planta,Abierta,,True
+NC-060,2026-03-28,2026-03,Capacitación del personal,Baja,Queja de cliente,Cerrada,9.0,False
+NC-061,2026-07-25,2026-07,Control de alérgenos,Alta,Queja de cliente,Abierta,,True
+NC-062,2026-07-07,2026-07,Control de alérgenos,Alta,Auditoría interna,Abierta,,True
+NC-063,2026-05-08,2026-05,Control de proveedores,Media,Auditoría interna,Abierta,,True
+NC-064,2026-07-05,2026-07,Control de alérgenos,Alta,Reporte de planta,Abierta,,True
+NC-065,2026-02-16,2026-02,Control de proveedores,Media,Reporte de planta,Cerrada,8.0,False
+NC-066,2025-05-11,2025-05,Control de alérgenos,Alta,Reporte de planta,Cerrada,30.0,False
+NC-067,2025-03-19,2025-03,Calibración de equipos,Media,Reporte de planta,Cerrada,20.0,False
+NC-068,2025-05-15,2025-05,Cadena de frío de insumos,Media,Reporte de planta,Cerrada,33.0,False
+NC-069,2025-12-27,2025-12,Control de alérgenos,Alta,Reporte de planta,Cerrada,27.0,False
+NC-070,2025-01-18,2025-01,Control de plagas,Alta,Auditoría interna,Cerrada,17.0,False
+NC-071,2026-05-16,2026-05,Trazabilidad de lote,Alta,Inspección INVIMA,Cerrada,25.0,False
+NC-072,2025-01-11,2025-01,Etiquetado y rotulado,Alta,Inspección INVIMA,Cerrada,47.0,False
+NC-073,2025-03-03,2025-03,Control de plagas,Alta,Reporte de planta,Cerrada,2.0,False
+NC-074,2025-06-21,2025-06,Limpieza y sanitización,Media,Reporte de planta,Cerrada,9.0,False

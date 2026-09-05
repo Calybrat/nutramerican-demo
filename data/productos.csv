@@ -1,0 +1,53 @@
+sku,producto,marca,categoria,presentacion,pvp_cop,pvp_promo_cop,imagen,fecha_lanzamiento,costo_unitario_cop,linea,precio_efectivo_cop,descuento_web_pct
+BIP-CLA-09V,BiPro Classic Vainilla 0.9 lb,BiPro,Módulos proteicos,0.9 lb tarro,119000,,bipro-classic-vainilla-0-9lb.webp,2019-01-15,47600,Polvos & Envasado,119000,0.0
+BIP-CLA-2V,BiPro Classic Vainilla 2 lb,BiPro,Módulos proteicos,2 lb tarro,249000,,bipro-classic-vainilla-2lb.webp,2019-01-15,94600,Polvos & Envasado,249000,0.0
+BIP-CLA-2C,BiPro Classic Chocolate 2 lb,BiPro,Módulos proteicos,2 lb tarro,249000,,bipro-classic-chocolate-2lb.webp,2019-01-15,94600,Polvos & Envasado,249000,0.0
+BIP-CLA-2N,BiPro Classic Natural 2 lb,BiPro,Módulos proteicos,2 lb tarro,249000,,bipro-classic-natural.webp,2020-06-01,92100,Polvos & Envasado,249000,0.0
+BIP-CLA-DIS,BiPro Classic Display sachets,BiPro,Módulos proteicos,caja sachets,124000,,bipro-classic-display.webp,2023-02-01,54600,Sachets & Display,124000,0.0
+BIP-CLA-3CC,BiPro Classic Cookies 3 lb,BiPro,Módulos proteicos,3 lb + regalo,329000,,bipro-classic-cookies-cream-3lb-gratis-nutra-pops-ca.webp,2026-01-15,138200,Polvos & Envasado,329000,0.0
+BIP-CLA-3V,BiPro Classic Vainilla 3 lb,BiPro,Módulos proteicos,3 lb + regalo,329000,,bipro-classic-vainilla-3lb-gratis-nutra-pops-caja.webp,2026-01-15,138200,Polvos & Envasado,329000,0.0
+BIP-CLA-3CA,BiPro Classic Capuccino 3 lb,BiPro,Módulos proteicos,3 lb + regalo,329000,,bipro-classic-3lb-capuccino-gratis-nutra-pops-caja.webp,2026-01-15,138200,Polvos & Envasado,329000,0.0
+BIP-COM-21,BiPro Complex Vainilla 2.1 lb,BiPro,Módulos proteicos,2.1 lb tarro,249000,224100.0,bipro-complex-vainilla-2-1-lb.webp,2024-05-01,97100,Polvos & Envasado,224100,10.0
+BIP-LIT-24,BiPro Lite 2.4 lb,BiPro,Control de peso,2.4 lb tarro,249000,,bipro-lite.webp,2021-03-01,94600,Polvos & Envasado,249000,0.0
+BIP-MAS-3,BiPro Mass 3 lb,BiPro,Hipercalóricos,3 lb tarro,249000,,bipro-mass.webp,2021-09-01,102100,Polvos & Envasado,249000,0.0
+MEG-CRE-2,Megaplex Creatine Power 2 lb,Megaplex,Energía y recuperación,2 lb tarro,79900,,megaplex-creatine-power-2lb.webp,2019-05-01,28800,Polvos & Envasado,79900,0.0
+MEG-CRE-10,Megaplex Creatine Power 10 lb,Megaplex,Energía y recuperación,10 lb tarro,299900,,megaplex-creatine-power-10lb.webp,2022-08-01,102000,Polvos & Envasado,299900,0.0
+MEG-GAI-3,Gainz 3 lb,Megaplex,Hipercalóricos,3 lb tarro,114990,,gainz-3lb.webp,2020-02-01,49400,Polvos & Envasado,114990,0.0
+MEG-GAI-64,Gainz Vainilla 6.4 lb,Megaplex,Hipercalóricos,6.4 lb tarro,219990,,gainz-vainilla-6-4-lb.webp,2020-02-01,96800,Polvos & Envasado,219990,0.0
+MEG-CAR-COC,Mega Carbs Limonada de Coco,Megaplex,Energía y recuperación,tarro,79990,,mega-carbs-limonada-de-coco.webp,2023-04-01,31200,Polvos & Envasado,79990,0.0
+MEG-CAR-CER,Mega Carbs Limón Cereza,Megaplex,Energía y recuperación,tarro,79990,,mega-carbs-limon-cereza.webp,2023-04-01,31200,Polvos & Envasado,79990,0.0
+MEG-NIT-FR,Nitro Shock Frutos Rojos,Megaplex,Energía y recuperación,tarro,94990,,nitro-shock-frutos-rojos.webp,2022-03-01,35100,Polvos & Envasado,94990,0.0
+MEG-SOY,Mega Soy,Megaplex,Módulos proteicos,tarro,69990,,mega-soy.webp,2021-07-01,24500,Polvos & Envasado,69990,0.0
+STK-CRE-TAR,Crea Stack 1.3 lb,Stacks,Energía y recuperación,1.3 lb tarro,149990,,crea-stack.webp,2024-03-01,52500,Polvos & Envasado,149990,0.0
+STK-CRE-SAC,Crea Stack Display sachets,Stacks,Energía y recuperación,caja sachets,124900,,crea-stack-sachets.webp,2025-06-01,51200,Sachets & Display,124900,0.0
+STK-BUR-TAR,Burner Stack 360 g,Stacks,Control de peso,360 g tarro,139990,,burner-stack.webp,2021-11-01,47600,Polvos & Envasado,139990,0.0
+STK-BUR-L24,Burner Stack Lata · paca x24,Stacks,Control de peso,paca x24 lata,189600,161160.0,burner-stack-lata-paca-de-24-unidades.webp,2025-03-01,106200,Bebidas RTD (lata),161160,15.0
+STK-BUR-L12,Burner Stack Lata · paca x12,Stacks,Control de peso,paca x12 lata,101450,91305.0,burner-stack-lata-paca-de-12-unidades.webp,2025-03-01,56800,Bebidas RTD (lata),91305,10.0
+STK-COL,Collagen Stack 585 g,Stacks,Nutrición general,585 g tarro,99990,,collagen-stack.webp,2023-09-01,38000,Polvos & Envasado,99990,0.0
+STK-PRW,Prime W Collagen Stack,Stacks,Nutrición general,tarro,74500,,prime-w-collagen-stack.webp,2026-07-15,27600,Polvos & Envasado,74500,0.0
+STK-GLU,Gluta Stack,Stacks,Energía y recuperación,tarro,64990,,gluta-stack.webp,2022-06-01,23400,Polvos & Envasado,64990,0.0
+STK-COMBO,Combo BiPro Lite + Burner Stack,Stacks,Control de peso,combo,388990,350091.0,bi-pro-lite-y-burner-stack.webp,2025-09-01,155600,Polvos & Envasado,350091,10.0
+NUT-POP-CAJ,Nutra Pops caja,Nutra,Snacks proteicos,caja,59900,,nutra-pops.webp,2024-08-01,27600,Polvos & Envasado,59900,0.0
+NUT-POP-PK,Nutra Pops pack x12,Nutra,Snacks proteicos,pack x12,64900,,nutra-pops-pack.webp,2024-08-01,30500,Polvos & Envasado,64900,0.0
+NUT-VEG-400,Nutra Vegan Protein Mocaccino,Nutra,Módulos proteicos,400 g,64990,,nutra-vegan-protein-mocaccino-400g.webp,2023-02-01,27300,Polvos & Envasado,64990,0.0
+NUT-RX,Nut-Rx Vainilla 400 g,Nutra,Nutrición general,400 g,34990,,nut-rx.webp,2022-01-01,15400,Polvos & Envasado,34990,0.0
+NUT-ZOL,Zolé Vainilla 450 g,Nutra,Nutrición general,450 g,29990,,zole.webp,2022-01-01,13500,Polvos & Envasado,29990,0.0
+NUT-BAL,Nutra Balance x8 sobres,Nutra,Nutrición general,8 sobres,49900,,nutra-balance.webp,2023-11-01,21500,Sachets & Display,49900,0.0
+NUT-C,Nutra-C Ácido Ascórbico 200 g,Nutra,Nutrición general,200 g,64990,,nutra-c.webp,2021-05-01,21400,Polvos & Envasado,64990,0.0
+NUT-SB,Nutra Smart Baby,Nutra,Nutrición general,unidad,18900,,nutra-smart-baby.webp,2026-06-01,9100,Polvos & Envasado,18900,0.0
+NUT-SB-DIS,Nutra Smart Baby Display,Nutra,Nutrición general,display,32500,,nutra-smart-baby-display.webp,2026-06-01,15900,Sachets & Display,32500,0.0
+RAD-PWD-TAR,Radical Power Drink tarro,Radical,Energía y recuperación,tarro,119900,,radical-power-drink-tarro.webp,2023-06-01,45600,Polvos & Envasado,119900,0.0
+RAD-PWD,Radical Power Drink polvo,Radical,Energía y recuperación,polvo,84900,,radical-power-drink.webp,2023-06-01,31400,Polvos & Envasado,84900,0.0
+RAD-ENX,Energy X,Radical,Energía y recuperación,unidad,29990,,energy-x.webp,2024-04-01,15600,Polvos & Envasado,29990,0.0
+RAD-MYT-24,Myth Legendary Pre-Workout x24,Radical,Energía y recuperación,paca x24 lata,189600,161160.0,myth-legendary-pre-workout-paca-por-24-unidades.webp,2025-05-01,108100,Bebidas RTD (lata),161160,15.0
+RAD-MYT-12,Myth Legendary Pre-Workout x12,Radical,Energía y recuperación,paca x12 lata,101450,91305.0,myth-legendary-pre-workout-paca-por-12-unidades.webp,2025-05-01,57800,Bebidas RTD (lata),91305,10.0
+RAD-RES-24,Rescue · paca x24,Radical,Energía y recuperación,paca x24 lata,189600,161160.0,rescue-paca-de-24-unidades.webp,2025-02-01,104300,Bebidas RTD (lata),161160,15.0
+RAD-RES-12,Rescue · paca x12,Radical,Energía y recuperación,paca x12 lata,101450,91305.0,rescue-paca-de-12-unidades.webp,2025-02-01,55800,Bebidas RTD (lata),91305,10.0
+RAD-RES-4,Rescue · paca x4,Radical,Energía y recuperación,paca x4 lata,31600,28440.0,rescue-paca-de-4-unidades.webp,2025-02-01,17400,Bebidas RTD (lata),28440,10.0
+ALI-FIT-COC,Fitbar Coco,Nutramerican,Snacks proteicos,caja,164990,140242.0,fitbar-sabor-coco.webp,2024-10-01,84100,Barras & Snacks,140242,15.0
+ALI-FIT-CHO,Fitbar Chocolate,Nutramerican,Snacks proteicos,caja,164990,140242.0,fitbar-sabor-chocolate.webp,2024-10-01,84100,Barras & Snacks,140242,15.0
+ALI-CAK-VAN,Protein Cake Vainilla,Nutramerican,Snacks proteicos,mezcla,74990,,protein-cake-vainilla.webp,2025-04-01,33700,Horneados & Mezclas,74990,0.0
+ALI-CAK-CHO,Protein Cake Chocolate,Nutramerican,Snacks proteicos,mezcla,74990,,protein-cake-chocolate.webp,2025-04-01,33700,Horneados & Mezclas,74990,0.0
+ALI-PAN-WAF,Protein Pancake & Waffle,Nutramerican,Snacks proteicos,mezcla,59990,,protein-pancake-waffle.webp,2024-03-01,26400,Horneados & Mezclas,59990,0.0
+ALI-PAN-TRA,Protein Pancake Tradicional,Nutramerican,Snacks proteicos,mezcla,49990,,protein-pancake-tradicional.webp,2024-03-01,22000,Horneados & Mezclas,49990,0.0
+MER-BAC,Nutramerican Backpack,Nutramerican,Merch,unidad,199990,,nutramerican-backpack.webp,2025-07-01,124000,Maquila externa,199990,0.0

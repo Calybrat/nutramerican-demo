@@ -1,0 +1,269 @@
+empleado_id,area,salario_cop,fecha_ingreso,antiguedad_anios,tipo_contrato,sede,ausentismo_dias_anio,rotacion_riesgo,costo_total_cop,sobre_smlv
+EMP-0001,Producción,2000101,2016-09-01,10.0,Obra o labor,Planta Palmira,9,Bajo,3040153,1.41
+EMP-0002,Producción,3307674,2024-11-17,1.8,Indefinido,Oficina Cali,1,Bajo,5027664,2.32
+EMP-0003,Producción,2335835,2015-12-07,10.7,Fijo,Planta Palmira,2,Alto,3550469,1.64
+EMP-0004,Producción,2420750,2022-06-23,4.2,Obra o labor,Planta Palmira,1,Medio,3679540,1.7
+EMP-0005,Producción,2332749,2016-08-09,10.1,Indefinido,Planta Palmira,0,Bajo,3545778,1.64
+EMP-0006,Producción,2975217,2020-08-27,6.0,Indefinido,Planta Palmira,3,Medio,4522329,2.09
+EMP-0007,Producción,2140490,2020-04-13,6.4,Indefinido,Planta Palmira,3,Bajo,3253544,1.5
+EMP-0008,Producción,1748179,2021-09-16,5.0,Indefinido,Planta Palmira,7,Bajo,2657232,1.23
+EMP-0009,Producción,2093810,2020-07-06,6.2,Indefinido,Planta Palmira,1,Bajo,3182591,1.47
+EMP-0010,Producción,3183755,2015-08-16,11.0,Indefinido,Planta Palmira,22,Bajo,4839307,2.24
+EMP-0011,Producción,1688229,2018-08-26,8.0,Indefinido,Tiendas,6,Medio,2566108,1.19
+EMP-0012,Producción,3206772,2024-08-19,2.0,Fijo,Planta Palmira,1,Alto,4874293,2.25
+EMP-0013,Producción,2472568,2023-10-15,2.9,Indefinido,Planta Palmira,6,Medio,3758303,1.74
+EMP-0014,Producción,1532160,2017-11-04,8.8,Indefinido,Tiendas,4,Bajo,2328883,1.08
+EMP-0015,Producción,1585792,2015-05-18,11.3,Indefinido,CD Yumbo,2,Alto,2410403,1.11
+EMP-0016,Producción,2369072,2024-12-01,1.7,Indefinido,Oficina Cali,1,Medio,3600989,1.66
+EMP-0017,Producción,2997672,2016-04-03,10.4,Fijo,Planta Palmira,0,Bajo,4556461,2.11
+EMP-0018,Producción,2543202,2015-04-02,11.4,Indefinido,Tiendas,5,Bajo,3865667,1.79
+EMP-0019,Producción,3097192,2023-12-20,2.7,Indefinido,CD Yumbo,0,Bajo,4707731,2.18
+EMP-0020,Producción,2613903,2024-01-08,2.6,Indefinido,Oficina Cali,0,Medio,3973132,1.84
+EMP-0021,Producción,3337536,2024-12-02,1.7,Indefinido,CD Yumbo,1,Bajo,5073054,2.34
+EMP-0022,Producción,1662225,2015-03-14,11.5,Fijo,Planta Palmira,9,Bajo,2526582,1.17
+EMP-0023,Producción,2213225,2023-02-01,3.6,Indefinido,Planta Palmira,0,Bajo,3364102,1.55
+EMP-0024,Producción,2578882,2024-06-11,2.2,Indefinido,Planta Palmira,0,Alto,3919900,1.81
+EMP-0025,Producción,2356995,2022-07-05,4.2,Fijo,CD Yumbo,4,Alto,3582632,1.66
+EMP-0026,Producción,2704407,2021-05-05,5.3,Indefinido,CD Yumbo,3,Bajo,4110698,1.9
+EMP-0027,Producción,2909130,2022-09-18,4.0,Fijo,Tiendas,6,Bajo,4421877,2.04
+EMP-0028,Producción,1509811,2017-10-25,8.8,Fijo,Planta Palmira,2,Bajo,2294912,1.06
+EMP-0029,Producción,1507090,2015-05-20,11.3,Indefinido,Planta Palmira,1,Bajo,2290776,1.06
+EMP-0030,Producción,2852675,2018-11-29,7.8,Fijo,Tiendas,1,Medio,4336066,2.0
+EMP-0031,Producción,3063844,2021-02-01,5.6,Indefinido,Planta Palmira,5,Bajo,4657042,2.15
+EMP-0032,Producción,3138104,2023-03-16,3.5,Indefinido,Tiendas,2,Bajo,4769918,2.2
+EMP-0033,Producción,2995485,2015-11-16,10.8,Fijo,Planta Palmira,1,Bajo,4553137,2.1
+EMP-0034,Producción,2672305,2017-09-21,8.9,Indefinido,Planta Palmira,0,Medio,4061903,1.88
+EMP-0035,Producción,2846111,2018-05-06,8.3,Indefinido,Planta Palmira,0,Bajo,4326088,2.0
+EMP-0036,Producción,3118116,2024-12-17,1.7,Indefinido,Planta Palmira,12,Medio,4739536,2.19
+EMP-0037,Producción,3223524,2024-10-21,1.9,Fijo,Planta Palmira,9,Bajo,4899756,2.26
+EMP-0038,Producción,2176400,2019-09-14,7.0,Indefinido,Oficina Cali,2,Medio,3308128,1.53
+EMP-0039,Producción,3312986,2016-05-16,10.3,Indefinido,Planta Palmira,0,Medio,5035738,2.33
+EMP-0040,Producción,2462033,2022-11-02,3.8,Indefinido,Oficina Cali,1,Bajo,3742290,1.73
+EMP-0041,Producción,3299667,2019-10-13,6.9,Indefinido,Planta Palmira,6,Bajo,5015493,2.32
+EMP-0042,Producción,2496992,2022-03-02,4.5,Indefinido,Planta Palmira,0,Medio,3795427,1.75
+EMP-0043,Producción,2744755,2018-05-10,8.3,Indefinido,Planta Palmira,0,Medio,4172027,1.93
+EMP-0044,Producción,1949819,2017-08-24,9.0,Indefinido,Tiendas,6,Bajo,2963724,1.37
+EMP-0045,Producción,2459820,2024-04-15,2.4,Indefinido,Planta Palmira,0,Medio,3738926,1.73
+EMP-0046,Producción,3344772,2020-05-25,6.3,Obra o labor,Oficina Cali,6,Bajo,5084053,2.35
+EMP-0047,Producción,2363569,2018-08-31,8.0,Indefinido,Planta Palmira,0,Bajo,3592624,1.66
+EMP-0048,Producción,2154363,2021-07-06,5.2,Fijo,Oficina Cali,4,Bajo,3274631,1.51
+EMP-0049,Producción,2520757,2019-05-11,7.3,Indefinido,CD Yumbo,3,Medio,3831550,1.77
+EMP-0050,Producción,2138603,2017-08-06,9.1,Fijo,Planta Palmira,10,Bajo,3250676,1.5
+EMP-0051,Producción,3291641,2015-06-12,11.2,Obra o labor,CD Yumbo,12,Bajo,5003294,2.31
+EMP-0052,Producción,1727422,2018-08-04,8.1,Fijo,Planta Palmira,2,Bajo,2625681,1.21
+EMP-0053,Producción,2994025,2025-02-24,1.5,Obra o labor,Oficina Cali,11,Bajo,4550918,2.1
+EMP-0054,Producción,2299347,2019-12-02,6.7,Indefinido,Oficina Cali,2,Bajo,3495007,1.62
+EMP-0055,Producción,1852127,2016-06-07,10.2,Indefinido,Planta Palmira,2,Bajo,2815233,1.3
+EMP-0056,Producción,2717924,2015-04-03,11.4,Indefinido,Planta Palmira,6,Alto,4131244,1.91
+EMP-0057,Producción,1940224,2020-05-17,6.3,Indefinido,CD Yumbo,1,Medio,2949140,1.36
+EMP-0058,Producción,1546134,2022-09-22,3.9,Indefinido,Planta Palmira,7,Medio,2350123,1.09
+EMP-0059,Producción,1535423,2022-02-06,4.6,Fijo,Planta Palmira,2,Bajo,2333842,1.08
+EMP-0060,Producción,2652181,2023-10-11,2.9,Obra o labor,CD Yumbo,2,Medio,4031315,1.86
+EMP-0061,Producción,3101492,2024-06-28,2.2,Fijo,Oficina Cali,3,Bajo,4714267,2.18
+EMP-0062,Producción,2886236,2025-01-23,1.6,Indefinido,Planta Palmira,7,Alto,4387078,2.03
+EMP-0063,Producción,3233220,2021-09-14,5.0,Indefinido,Oficina Cali,4,Bajo,4914494,2.27
+EMP-0064,Producción,2780490,2020-09-08,6.0,Indefinido,Tiendas,2,Bajo,4226344,1.95
+EMP-0065,Producción,1688925,2015-11-17,10.8,Indefinido,Planta Palmira,4,Bajo,2567166,1.19
+EMP-0066,Producción,3146206,2017-01-13,9.6,Indefinido,Planta Palmira,6,Bajo,4782233,2.21
+EMP-0067,Producción,3255148,2018-08-14,8.0,Indefinido,Oficina Cali,1,Bajo,4947824,2.29
+EMP-0068,Producción,2857464,2016-02-24,10.5,Indefinido,Planta Palmira,2,Bajo,4343345,2.01
+EMP-0069,Producción,2625863,2017-02-06,9.6,Fijo,Oficina Cali,8,Alto,3991311,1.84
+EMP-0070,Producción,1493067,2017-03-22,9.4,Indefinido,CD Yumbo,2,Alto,2269461,1.05
+EMP-0071,Producción,2869703,2026-01-27,0.6,Fijo,Oficina Cali,10,Medio,4361948,2.02
+EMP-0072,Producción,3066682,2020-10-10,5.9,Fijo,Planta Palmira,7,Bajo,4661356,2.15
+EMP-0073,Producción,3020200,2016-01-30,10.6,Indefinido,Planta Palmira,2,Bajo,4590704,2.12
+EMP-0074,Producción,2778145,2018-04-16,8.4,Fijo,Tiendas,0,Bajo,4222780,1.95
+EMP-0075,Producción,2430042,2018-07-20,8.1,Indefinido,Tiendas,0,Bajo,3693663,1.71
+EMP-0076,Producción,2610181,2023-07-01,3.2,Indefinido,Tiendas,0,Alto,3967475,1.83
+EMP-0077,Producción,1774580,2016-12-02,9.7,Indefinido,Tiendas,22,Medio,2697361,1.25
+EMP-0078,Producción,1816814,2020-06-23,6.2,Indefinido,CD Yumbo,1,Bajo,2761557,1.28
+EMP-0079,Producción,2601052,2020-02-08,6.6,Indefinido,Planta Palmira,5,Medio,3953599,1.83
+EMP-0080,Producción,1620625,2024-04-18,2.4,Indefinido,Tiendas,3,Bajo,2463350,1.14
+EMP-0081,Producción,1716855,2022-08-20,4.0,Indefinido,Tiendas,2,Bajo,2609619,1.21
+EMP-0082,Producción,1930557,2017-11-27,8.8,Fijo,Tiendas,3,Bajo,2934446,1.36
+EMP-0083,Producción,1682863,2022-07-27,4.1,Indefinido,Planta Palmira,3,Bajo,2557951,1.18
+EMP-0084,Producción,1965272,2017-02-07,9.6,Indefinido,CD Yumbo,0,Bajo,2987213,1.38
+EMP-0085,Producción,2419523,2023-03-31,3.4,Indefinido,Planta Palmira,1,Bajo,3677674,1.7
+EMP-0086,Producción,1773129,2015-12-10,10.7,Indefinido,Tiendas,0,Bajo,2695156,1.25
+EMP-0087,Calidad & Laboratorio,4701864,2022-12-09,3.7,Indefinido,Oficina Cali,12,Bajo,7146833,3.3
+EMP-0088,Calidad & Laboratorio,4146264,2020-08-18,6.0,Obra o labor,Tiendas,1,Bajo,6302321,2.91
+EMP-0089,Calidad & Laboratorio,4544754,2018-02-15,8.5,Obra o labor,Planta Palmira,11,Medio,6908026,3.19
+EMP-0090,Calidad & Laboratorio,5750733,2017-10-07,8.9,Fijo,CD Yumbo,4,Medio,8741114,4.04
+EMP-0091,Calidad & Laboratorio,5976954,2024-02-27,2.5,Indefinido,CD Yumbo,4,Medio,9084970,4.2
+EMP-0092,Calidad & Laboratorio,6671956,2024-06-13,2.2,Indefinido,Planta Palmira,2,Bajo,10141373,4.69
+EMP-0093,Calidad & Laboratorio,4602129,2015-11-21,10.8,Obra o labor,Tiendas,10,Bajo,6995236,3.23
+EMP-0094,Calidad & Laboratorio,3328912,2018-01-14,8.6,Fijo,Oficina Cali,0,Bajo,5059946,2.34
+EMP-0095,Calidad & Laboratorio,4821225,2024-07-31,2.1,Indefinido,Tiendas,5,Bajo,7328262,3.39
+EMP-0096,Calidad & Laboratorio,6685739,2021-10-01,4.9,Indefinido,Planta Palmira,1,Bajo,10162323,4.7
+EMP-0097,Calidad & Laboratorio,5786838,2019-08-15,7.0,Indefinido,Planta Palmira,0,Bajo,8795993,4.07
+EMP-0098,Calidad & Laboratorio,3888145,2023-12-25,2.7,Indefinido,Planta Palmira,2,Bajo,5909980,2.73
+EMP-0099,Calidad & Laboratorio,5265787,2020-08-06,6.1,Fijo,Planta Palmira,13,Medio,8003996,3.7
+EMP-0100,Calidad & Laboratorio,4658467,2016-09-04,10.0,Indefinido,Planta Palmira,0,Bajo,7080869,3.27
+EMP-0101,Calidad & Laboratorio,5198894,2023-01-09,3.6,Obra o labor,Tiendas,1,Bajo,7902318,3.65
+EMP-0102,Calidad & Laboratorio,2376916,2020-12-23,5.7,Fijo,Planta Palmira,4,Bajo,3612912,1.67
+EMP-0103,Calidad & Laboratorio,4658342,2019-01-28,7.6,Fijo,CD Yumbo,1,Bajo,7080679,3.27
+EMP-0104,Logística & Almacén,1842944,2018-02-19,8.5,Indefinido,Tiendas,9,Bajo,2801274,1.29
+EMP-0105,Logística & Almacén,2211107,2026-02-16,0.5,Indefinido,Planta Palmira,4,Bajo,3360882,1.55
+EMP-0106,Logística & Almacén,2905476,2025-02-07,1.6,Indefinido,Planta Palmira,9,Bajo,4416323,2.04
+EMP-0107,Logística & Almacén,2396873,2025-02-10,1.6,Indefinido,Planta Palmira,4,Bajo,3643246,1.68
+EMP-0108,Logística & Almacén,3810697,2016-09-23,9.9,Fijo,Oficina Cali,0,Medio,5792259,2.68
+EMP-0109,Logística & Almacén,1441036,2018-03-20,8.4,Indefinido,Planta Palmira,2,Bajo,2190374,1.01
+EMP-0110,Logística & Almacén,3428464,2015-03-08,11.5,Fijo,Planta Palmira,6,Bajo,5211265,2.41
+EMP-0111,Logística & Almacén,3734956,2017-09-09,9.0,Indefinido,Tiendas,0,Bajo,5677133,2.62
+EMP-0112,Logística & Almacén,3666590,2016-06-25,10.2,Fijo,Planta Palmira,1,Alto,5573216,2.58
+EMP-0113,Logística & Almacén,1710954,2022-08-31,4.0,Indefinido,Oficina Cali,2,Bajo,2600650,1.2
+EMP-0114,Logística & Almacén,3758451,2020-08-27,6.0,Fijo,Oficina Cali,2,Alto,5712845,2.64
+EMP-0115,Logística & Almacén,1487255,2018-01-07,8.6,Indefinido,Oficina Cali,0,Bajo,2260627,1.04
+EMP-0116,Logística & Almacén,3572350,2015-10-14,10.9,Indefinido,Oficina Cali,1,Bajo,5429972,2.51
+EMP-0117,Logística & Almacén,2373010,2025-09-04,1.0,Indefinido,Tiendas,0,Medio,3606975,1.67
+EMP-0118,Logística & Almacén,3772791,2019-10-27,6.8,Fijo,Oficina Cali,2,Bajo,5734642,2.65
+EMP-0119,Logística & Almacén,1506410,2017-10-03,8.9,Indefinido,Planta Palmira,1,Bajo,2289743,1.06
+EMP-0120,Logística & Almacén,3226543,2019-10-19,6.9,Obra o labor,Planta Palmira,1,Bajo,4904345,2.27
+EMP-0121,Logística & Almacén,2203444,2026-02-05,0.6,Indefinido,Oficina Cali,21,Medio,3349234,1.55
+EMP-0122,Logística & Almacén,2730675,2017-04-29,9.3,Indefinido,Planta Palmira,2,Medio,4150626,1.92
+EMP-0123,Logística & Almacén,2890321,2015-07-15,11.1,Obra o labor,Tiendas,2,Bajo,4393287,2.03
+EMP-0124,Logística & Almacén,3658442,2020-05-28,6.3,Indefinido,Planta Palmira,2,Medio,5560831,2.57
+EMP-0125,Logística & Almacén,1431973,2015-06-20,11.2,Indefinido,Tiendas,13,Bajo,2176598,1.01
+EMP-0126,Logística & Almacén,2910883,2018-03-29,8.4,Fijo,Planta Palmira,6,Alto,4424542,2.04
+EMP-0127,Logística & Almacén,3180440,2023-07-29,3.1,Indefinido,Planta Palmira,5,Medio,4834268,2.23
+EMP-0128,Logística & Almacén,3447836,2024-07-26,2.1,Fijo,Planta Palmira,0,Bajo,5240710,2.42
+EMP-0129,Logística & Almacén,3855075,2019-12-31,6.7,Obra o labor,CD Yumbo,4,Bajo,5859714,2.71
+EMP-0130,Logística & Almacén,1727003,2021-04-25,5.3,Fijo,Oficina Cali,8,Bajo,2625044,1.21
+EMP-0131,Logística & Almacén,1654752,2020-11-11,5.8,Obra o labor,Planta Palmira,2,Bajo,2515223,1.16
+EMP-0132,Logística & Almacén,2506857,2017-12-23,8.7,Fijo,Tiendas,1,Bajo,3810422,1.76
+EMP-0133,Logística & Almacén,1765842,2024-11-23,1.8,Indefinido,Planta Palmira,8,Medio,2684079,1.24
+EMP-0134,Logística & Almacén,2651171,2023-05-15,3.3,Indefinido,CD Yumbo,4,Medio,4029779,1.86
+EMP-0135,Logística & Almacén,3467518,2017-06-03,9.2,Indefinido,CD Yumbo,7,Bajo,5270627,2.44
+EMP-0136,Logística & Almacén,1561262,2024-09-22,1.9,Fijo,Planta Palmira,3,Bajo,2373118,1.1
+EMP-0137,Logística & Almacén,1631970,2015-07-19,11.1,Indefinido,Planta Palmira,1,Bajo,2480594,1.15
+EMP-0138,Tiendas,2440895,2015-11-16,10.8,Indefinido,Oficina Cali,1,Bajo,3710160,1.71
+EMP-0139,Tiendas,3079469,2024-12-10,1.7,Indefinido,Planta Palmira,0,Medio,4680792,2.16
+EMP-0140,Tiendas,2514353,2019-12-14,6.7,Indefinido,Planta Palmira,8,Medio,3821816,1.77
+EMP-0141,Tiendas,1539339,2016-08-23,10.0,Indefinido,Planta Palmira,1,Bajo,2339795,1.08
+EMP-0142,Tiendas,2725331,2015-01-14,11.6,Indefinido,Planta Palmira,6,Bajo,4142503,1.91
+EMP-0143,Tiendas,1762807,2016-12-16,9.7,Indefinido,Tiendas,0,Bajo,2679466,1.24
+EMP-0144,Tiendas,1652611,2021-07-31,5.1,Obra o labor,Tiendas,2,Medio,2511968,1.16
+EMP-0145,Tiendas,1686913,2018-12-29,7.7,Indefinido,Planta Palmira,4,Bajo,2564107,1.19
+EMP-0146,Tiendas,3015365,2021-06-03,5.2,Fijo,Planta Palmira,2,Bajo,4583354,2.12
+EMP-0147,Tiendas,2969564,2016-12-18,9.7,Indefinido,Oficina Cali,1,Bajo,4513737,2.09
+EMP-0148,Tiendas,2465065,2015-08-06,11.1,Indefinido,Planta Palmira,1,Bajo,3746898,1.73
+EMP-0149,Tiendas,2230774,2021-05-29,5.3,Obra o labor,Planta Palmira,4,Medio,3390776,1.57
+EMP-0150,Tiendas,3150258,2023-02-06,3.6,Obra o labor,Planta Palmira,1,Bajo,4788392,2.21
+EMP-0151,Tiendas,1520731,2020-06-13,6.2,Indefinido,Oficina Cali,3,Bajo,2311511,1.07
+EMP-0152,Tiendas,2422756,2025-06-30,1.2,Fijo,Planta Palmira,0,Bajo,3682589,1.7
+EMP-0153,Tiendas,2567208,2015-05-20,11.3,Indefinido,CD Yumbo,2,Bajo,3902156,1.8
+EMP-0154,Tiendas,1588263,2025-04-06,1.4,Indefinido,CD Yumbo,3,Alto,2414159,1.12
+EMP-0155,Tiendas,1896345,2018-06-12,8.2,Indefinido,Tiendas,0,Bajo,2882444,1.33
+EMP-0156,Tiendas,2990659,2021-12-15,4.7,Indefinido,Tiendas,2,Medio,4545801,2.1
+EMP-0157,Tiendas,1772162,2024-05-12,2.3,Indefinido,Planta Palmira,6,Medio,2693686,1.24
+EMP-0158,Tiendas,1691532,2025-05-08,1.3,Obra o labor,Planta Palmira,2,Bajo,2571128,1.19
+EMP-0159,Tiendas,1777721,2020-02-07,6.6,Obra o labor,Planta Palmira,0,Bajo,2702135,1.25
+EMP-0160,Tiendas,2650838,2021-03-31,5.4,Indefinido,Planta Palmira,2,Bajo,4029273,1.86
+EMP-0161,Tiendas,2702922,2018-01-07,8.6,Indefinido,Planta Palmira,0,Bajo,4108441,1.9
+EMP-0162,Tiendas,3183798,2020-09-18,5.9,Indefinido,Planta Palmira,1,Alto,4839372,2.24
+EMP-0163,Tiendas,2520023,2025-04-04,1.4,Indefinido,Tiendas,3,Bajo,3830434,1.77
+EMP-0164,Tiendas,3010300,2020-09-02,6.0,Indefinido,Tiendas,0,Bajo,4575656,2.11
+EMP-0165,Tiendas,2646298,2025-07-14,1.1,Indefinido,CD Yumbo,11,Medio,4022372,1.86
+EMP-0166,Tiendas,1711948,2021-11-05,4.8,Indefinido,Planta Palmira,3,Bajo,2602160,1.2
+EMP-0167,Tiendas,2038739,2016-08-05,10.1,Indefinido,CD Yumbo,2,Bajo,3098883,1.43
+EMP-0168,Tiendas,2743617,2015-12-08,10.7,Indefinido,Tiendas,9,Bajo,4170297,1.93
+EMP-0169,Tiendas,2829488,2021-03-17,5.5,Fijo,Planta Palmira,0,Bajo,4300821,1.99
+EMP-0170,Comercial & Trade,4182774,2024-07-19,2.1,Fijo,Planta Palmira,5,Bajo,6357816,2.94
+EMP-0171,Comercial & Trade,4348066,2023-08-10,3.1,Indefinido,Oficina Cali,2,Bajo,6609060,3.05
+EMP-0172,Comercial & Trade,4871847,2020-04-19,6.4,Indefinido,Planta Palmira,0,Medio,7405207,3.42
+EMP-0173,Comercial & Trade,8991208,2021-05-18,5.3,Indefinido,Tiendas,1,Bajo,13666636,6.32
+EMP-0174,Comercial & Trade,7334699,2021-08-07,5.1,Indefinido,Tiendas,19,Bajo,11148742,5.15
+EMP-0175,Comercial & Trade,2393846,2016-04-13,10.4,Fijo,Planta Palmira,0,Medio,3638645,1.68
+EMP-0176,Comercial & Trade,4403860,2017-02-19,9.5,Fijo,Oficina Cali,6,Bajo,6693867,3.09
+EMP-0177,Comercial & Trade,7830549,2024-01-01,2.7,Indefinido,Tiendas,5,Medio,11902434,5.5
+EMP-0178,Comercial & Trade,8688698,2019-02-16,7.5,Indefinido,Planta Palmira,3,Bajo,13206820,6.1
+EMP-0179,Comercial & Trade,4714371,2023-06-17,3.2,Indefinido,Planta Palmira,4,Medio,7165843,3.31
+EMP-0180,Comercial & Trade,4007397,2015-11-12,10.8,Indefinido,Planta Palmira,14,Bajo,6091243,2.82
+EMP-0181,Comercial & Trade,8151473,2023-12-05,2.7,Indefinido,Tiendas,10,Bajo,12390238,5.73
+EMP-0182,Comercial & Trade,6138944,2017-07-13,9.1,Fijo,Oficina Cali,0,Alto,9331194,4.31
+EMP-0183,Comercial & Trade,8911052,2018-10-12,7.9,Fijo,Planta Palmira,0,Bajo,13544799,6.26
+EMP-0184,Comercial & Trade,6856403,2023-08-29,3.0,Obra o labor,Planta Palmira,6,Bajo,10421732,4.82
+EMP-0185,Comercial & Trade,8194084,2018-10-28,7.8,Indefinido,CD Yumbo,5,Medio,12455007,5.76
+EMP-0186,Comercial & Trade,5913305,2017-04-21,9.4,Fijo,Planta Palmira,1,Bajo,8988223,4.15
+EMP-0187,Comercial & Trade,7640453,2024-08-25,2.0,Indefinido,Tiendas,2,Bajo,11613488,5.37
+EMP-0188,Comercial & Trade,5223227,2021-12-31,4.7,Obra o labor,Oficina Cali,3,Medio,7939305,3.67
+EMP-0189,Comercial & Trade,3441980,2025-04-13,1.4,Fijo,Planta Palmira,17,Bajo,5231809,2.42
+EMP-0190,Comercial & Trade,2536261,2024-09-14,2.0,Obra o labor,Tiendas,0,Bajo,3855116,1.78
+EMP-0191,Comercial & Trade,3022762,2022-03-25,4.4,Fijo,Planta Palmira,1,Alto,4594598,2.12
+EMP-0192,Comercial & Trade,7563119,2024-06-30,2.2,Fijo,Planta Palmira,2,Medio,11495940,5.31
+EMP-0193,Comercial & Trade,4645573,2017-07-19,9.1,Indefinido,Planta Palmira,9,Bajo,7061270,3.26
+EMP-0194,Comercial & Trade,4994657,2025-09-28,0.9,Obra o labor,Planta Palmira,3,Bajo,7591878,3.51
+EMP-0195,Comercial & Trade,4737331,2021-07-19,5.1,Indefinido,CD Yumbo,3,Alto,7200743,3.33
+EMP-0196,Comercial & Trade,3140985,2021-03-17,5.5,Obra o labor,Planta Palmira,0,Bajo,4774297,2.21
+EMP-0197,Comercial & Trade,3620881,2018-10-08,7.9,Indefinido,Planta Palmira,1,Bajo,5503739,2.54
+EMP-0198,Comercial & Trade,5828299,2016-07-17,10.1,Indefinido,Planta Palmira,2,Alto,8859014,4.09
+EMP-0199,Marketing & Digital,6885666,2017-06-03,9.2,Indefinido,Oficina Cali,2,Bajo,10466212,4.84
+EMP-0200,Marketing & Digital,4716064,2020-07-23,6.1,Indefinido,Planta Palmira,5,Alto,7168417,3.31
+EMP-0201,Marketing & Digital,8582444,2023-01-22,3.6,Indefinido,Oficina Cali,3,Bajo,13045314,6.03
+EMP-0202,Marketing & Digital,5692023,2021-07-05,5.2,Obra o labor,Planta Palmira,5,Bajo,8651874,4.0
+EMP-0203,Marketing & Digital,5014864,2019-07-18,7.1,Indefinido,Planta Palmira,0,Bajo,7622593,3.52
+EMP-0204,Marketing & Digital,3282518,2023-05-20,3.3,Obra o labor,Planta Palmira,2,Medio,4989427,2.31
+EMP-0205,Marketing & Digital,2937388,2024-12-17,1.7,Fijo,Oficina Cali,6,Bajo,4464829,2.06
+EMP-0206,Marketing & Digital,4217649,2021-10-05,4.9,Indefinido,Tiendas,4,Alto,6410826,2.96
+EMP-0207,Marketing & Digital,2728525,2024-07-10,2.1,Indefinido,Tiendas,1,Medio,4147358,1.92
+EMP-0208,Marketing & Digital,3208008,2017-01-12,9.6,Indefinido,Planta Palmira,1,Bajo,4876172,2.25
+EMP-0209,Marketing & Digital,4456950,2024-12-27,1.7,Obra o labor,CD Yumbo,15,Bajo,6774564,3.13
+EMP-0210,Marketing & Digital,6864106,2020-03-30,6.4,Indefinido,CD Yumbo,3,Medio,10433441,4.82
+EMP-0211,Marketing & Digital,7306992,2021-10-11,4.9,Fijo,Tiendas,2,Bajo,11106627,5.13
+EMP-0212,Marketing & Digital,3842681,2025-04-11,1.4,Fijo,CD Yumbo,0,Bajo,5840875,2.7
+EMP-0213,Servicio al Cliente,1633987,2020-07-04,6.2,Indefinido,Planta Palmira,6,Bajo,2483660,1.15
+EMP-0214,Servicio al Cliente,1503271,2024-06-26,2.2,Indefinido,Planta Palmira,16,Medio,2284971,1.06
+EMP-0215,Servicio al Cliente,2179033,2016-11-12,9.8,Indefinido,Planta Palmira,5,Medio,3312130,1.53
+EMP-0216,Servicio al Cliente,1592809,2018-03-14,8.5,Indefinido,Tiendas,1,Bajo,2421069,1.12
+EMP-0217,Servicio al Cliente,2431857,2024-09-16,2.0,Indefinido,Tiendas,5,Bajo,3696422,1.71
+EMP-0218,Servicio al Cliente,2472930,2016-09-24,9.9,Indefinido,Tiendas,12,Alto,3758853,1.74
+EMP-0219,Servicio al Cliente,3087142,2017-03-17,9.5,Indefinido,Planta Palmira,0,Medio,4692455,2.17
+EMP-0220,Servicio al Cliente,1446946,2017-07-27,9.1,Fijo,CD Yumbo,10,Bajo,2199357,1.02
+EMP-0221,Servicio al Cliente,1656993,2020-10-04,5.9,Indefinido,Oficina Cali,1,Bajo,2518629,1.16
+EMP-0222,Servicio al Cliente,1955683,2022-03-06,4.5,Fijo,Planta Palmira,10,Bajo,2972638,1.37
+EMP-0223,Servicio al Cliente,1751899,2015-06-24,11.2,Fijo,Planta Palmira,6,Bajo,2662886,1.23
+EMP-0224,Servicio al Cliente,1771520,2019-09-04,7.0,Fijo,CD Yumbo,0,Bajo,2692710,1.24
+EMP-0225,Servicio al Cliente,2223768,2015-01-12,11.6,Indefinido,Tiendas,10,Bajo,3380127,1.56
+EMP-0226,Compras & Comercio Ext.,2950569,2016-08-21,10.0,Indefinido,Planta Palmira,4,Bajo,4484864,2.07
+EMP-0227,Compras & Comercio Ext.,7983954,2025-02-14,1.5,Fijo,Planta Palmira,7,Bajo,12135610,5.61
+EMP-0228,Compras & Comercio Ext.,6680853,2022-03-18,4.5,Indefinido,Planta Palmira,0,Bajo,10154896,4.69
+EMP-0229,Compras & Comercio Ext.,8166625,2015-12-30,10.7,Indefinido,Tiendas,1,Bajo,12413270,5.74
+EMP-0230,Compras & Comercio Ext.,7956191,2024-01-09,2.6,Indefinido,Planta Palmira,6,Bajo,12093410,5.59
+EMP-0231,Compras & Comercio Ext.,6340905,2023-02-18,3.5,Fijo,CD Yumbo,4,Bajo,9638175,4.45
+EMP-0232,Compras & Comercio Ext.,2769169,2021-10-23,4.9,Indefinido,Tiendas,12,Bajo,4209136,1.95
+EMP-0233,Compras & Comercio Ext.,5819432,2023-04-28,3.3,Fijo,Oficina Cali,10,Bajo,8845536,4.09
+EMP-0234,Compras & Comercio Ext.,7763662,2023-07-26,3.1,Indefinido,Planta Palmira,8,Medio,11800766,5.45
+EMP-0235,I+D e Innovación,3634736,2023-01-14,3.6,Indefinido,CD Yumbo,0,Bajo,5524798,2.55
+EMP-0236,I+D e Innovación,4299938,2016-03-03,10.5,Indefinido,Planta Palmira,4,Bajo,6535905,3.02
+EMP-0237,I+D e Innovación,4801549,2024-01-02,2.7,Obra o labor,Oficina Cali,7,Medio,7298354,3.37
+EMP-0238,I+D e Innovación,4708049,2017-12-06,8.7,Indefinido,Planta Palmira,2,Bajo,7156234,3.31
+EMP-0239,I+D e Innovación,5398260,2018-06-05,8.2,Indefinido,CD Yumbo,0,Bajo,8205355,3.79
+EMP-0240,I+D e Innovación,10072634,2023-07-20,3.1,Indefinido,Planta Palmira,4,Bajo,15310403,7.08
+EMP-0241,I+D e Innovación,7170232,2025-06-01,1.2,Indefinido,Planta Palmira,7,Bajo,10898752,5.04
+EMP-0242,I+D e Innovación,8485593,2021-12-15,4.7,Indefinido,Planta Palmira,4,Bajo,12898101,5.96
+EMP-0243,Administración & Finanzas,3895411,2018-06-15,8.2,Indefinido,Planta Palmira,2,Medio,5921024,2.74
+EMP-0244,Administración & Finanzas,6621167,2019-05-26,7.3,Indefinido,CD Yumbo,3,Bajo,10064173,4.65
+EMP-0245,Administración & Finanzas,3812242,2015-05-29,11.3,Indefinido,CD Yumbo,1,Alto,5794607,2.68
+EMP-0246,Administración & Finanzas,6223938,2019-01-04,7.7,Fijo,Oficina Cali,6,Bajo,9460385,4.37
+EMP-0247,Administración & Finanzas,5583034,2022-10-13,3.9,Indefinido,Planta Palmira,12,Medio,8486211,3.92
+EMP-0248,Administración & Finanzas,4961423,2019-05-15,7.3,Indefinido,Planta Palmira,1,Bajo,7541362,3.49
+EMP-0249,Administración & Finanzas,5961399,2021-09-21,4.9,Indefinido,Planta Palmira,0,Bajo,9061326,4.19
+EMP-0250,Administración & Finanzas,8643643,2024-04-14,2.4,Indefinido,Oficina Cali,5,Bajo,13138337,6.07
+EMP-0251,Administración & Finanzas,7364185,2018-01-28,8.6,Indefinido,Planta Palmira,11,Bajo,11193561,5.17
+EMP-0252,Administración & Finanzas,7665940,2015-10-23,10.9,Indefinido,Oficina Cali,2,Bajo,11652228,5.39
+EMP-0253,Administración & Finanzas,5948795,2024-07-04,2.2,Indefinido,CD Yumbo,1,Bajo,9042168,4.18
+EMP-0254,Administración & Finanzas,3604726,2020-12-10,5.7,Indefinido,Planta Palmira,3,Bajo,5479183,2.53
+EMP-0255,Administración & Finanzas,6869991,2015-01-13,11.6,Fijo,Planta Palmira,1,Bajo,10442386,4.83
+EMP-0256,Administración & Finanzas,5397813,2025-07-30,1.1,Fijo,Planta Palmira,0,Bajo,8204675,3.79
+EMP-0257,Administración & Finanzas,4996493,2017-05-01,9.3,Indefinido,CD Yumbo,2,Bajo,7594669,3.51
+EMP-0258,Administración & Finanzas,8622264,2022-09-22,3.9,Indefinido,Planta Palmira,0,Bajo,13105841,6.06
+EMP-0259,Administración & Finanzas,4709748,2022-10-12,3.9,Indefinido,CD Yumbo,7,Medio,7158816,3.31
+EMP-0260,Administración & Finanzas,6147678,2017-05-12,9.3,Indefinido,Planta Palmira,0,Bajo,9344470,4.32
+EMP-0261,Administración & Finanzas,4581011,2023-03-03,3.5,Indefinido,Planta Palmira,2,Medio,6963136,3.22
+EMP-0262,Dirección,22637704,2020-09-29,5.9,Indefinido,CD Yumbo,6,Bajo,34409310,15.9
+EMP-0263,Dirección,18766753,2016-09-04,10.0,Indefinido,Tiendas,2,Medio,28525464,13.18
+EMP-0264,Dirección,20559257,2017-12-22,8.7,Indefinido,Tiendas,1,Bajo,31250070,14.44
+EMP-0265,Dirección,23452051,2018-03-20,8.4,Obra o labor,Planta Palmira,10,Bajo,35647117,16.47
+EMP-0266,Dirección,24332202,2016-10-06,9.9,Indefinido,Planta Palmira,1,Bajo,36984947,17.09
+EMP-0267,Dirección,22572869,2021-07-03,5.2,Indefinido,Planta Palmira,0,Bajo,34310760,15.86
+EMP-0268,Dirección,25889825,2023-11-09,2.8,Indefinido,Planta Palmira,2,Medio,39352534,18.19
